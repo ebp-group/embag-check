@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: 'Give the issue a short but meaningful title, e.g. the class or property to which the issue relates'
 labels: ''
 assignees: ''
 
