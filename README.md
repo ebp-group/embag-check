@@ -20,6 +20,7 @@ Falls die Organisation zur **zentralen Bundesverwaltung** zählt, ist sie auf je
 * Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Katon/Gemeinde gelten könnten?
 
 </details>
+<br/>
 
 ![Pflicht: EMBAG Art. 3](https://img.shields.io/badge/Pflicht-EMBAG_Art._3-linen)
 <details>
@@ -36,6 +37,7 @@ EMBAG Art. 3 beschreibt den Grundsatz, dass Bundesbehörden “elektronische Mit
 * Wer kümmert sich um die Einführung und Einhaltung der Regeln?
 
 </details>
+<br/>
 
 ![Pflicht: EMBAG Art. 7 / 15 / 16 / 17](https://img.shields.io/badge/Pflicht-EMBAG_Art._7_/_15_/_16_/_17-linen)
 <details>
@@ -49,6 +51,7 @@ Falls zusätzliche Aufgaben anfallen, muss definiert werden, wer diese übernimm
 * Gibt es Dienstleistungen, welche zentral angeboten werden (z.B. Datenkatalog, Qualitätssicherung)?
 
 </details>
+<br/>
 
 ![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
 <details>
@@ -67,6 +70,7 @@ Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprech
 * Sind die (Teil-)Prozesse bereits automatisiert?
 
 </details>
+<br/>
 
 
 <hr> 
