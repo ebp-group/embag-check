@@ -53,15 +53,17 @@ window.onclick = function (event) {
 window.onload = function () {
     // carousel config
     let proto_carousel = document.getElementById('carousel-proto');
-    let carousel = document.getElementById('carousel');
-    // carousel.append(...proto_carousel.childNodes);
-    let unique = Array.prototype.slice.call(proto_carousel.childNodes).unique()
-    unique.forEach(function(elem){carousel.appendChild(elem)});
-    carousel.getElementsByClassName('item')[0].classList.add('active');	
-    if(carousel.getElementsByClassName('dot').length > 0){
-		carousel.getElementsByClassName('dot')[0].classList.add('active');
-	}
-    proto_carousel.remove();
+    if (proto_carousel) {
+        let carousel = document.getElementById('carousel');
+        // carousel.append(...proto_carousel.childNodes);
+        let unique = Array.prototype.slice.call(proto_carousel.childNodes).unique()
+        unique.forEach(function(elem){carousel.appendChild(elem)});
+        carousel.getElementsByClassName('item')[0].classList.add('active');	
+        if(carousel.getElementsByClassName('dot').length > 0){
+            carousel.getElementsByClassName('dot')[0].classList.add('active');
+        }
+        proto_carousel.remove();
+    }
 
     // remove separator
     toggle_separator();
