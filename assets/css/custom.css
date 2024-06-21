@@ -305,7 +305,7 @@ HEADER
     }
 
     .common .title{
-        padding-top: 66px;
+        padding-top: 33px;
         /* font-size: 50px; */
         font-size: 36px;
     }
@@ -316,11 +316,7 @@ HEADER
     }
     */
 
-    .common.container:last-child{
-        background-color: #f8f7f7;
-    }
-
-    .common.container:first-child{
+    .common.container:nth-child(3) {
         background-color: #f8f7f7;
     }
 

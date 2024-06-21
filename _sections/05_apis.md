@@ -50,4 +50,3 @@ Für REST-APIs hat sich OpenAPI als Standard etabliert, welches dann von geeigne
 * Ist die Dokumentation up-to-date bzw. wer ist dafür verantwortlich?
   
 </details>
-<br/>

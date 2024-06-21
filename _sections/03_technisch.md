@@ -89,4 +89,3 @@ Sowohl in der Softwareentwicklung wie auch bei der Datenverarbeitung haben sich 
 * Haben alle meine Systeme eine Schnittstelle, die für die Automatisierung nötig ist?
   
 </details>
-<br/>

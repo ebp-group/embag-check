@@ -65,4 +65,3 @@ Ganz allgemein stellt sich die Frage, wie die Community des OSS-Projekts aussehe
 * Wie wird mit Forks des Projekts umgegangen?
   
 </details>
-<br/>

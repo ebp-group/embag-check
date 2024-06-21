@@ -94,7 +94,4 @@ Eine solche Strategie umfasst üblicherweise die Bereiche Erhebung/Beschaffung, 
 * Gibt es bereits Konzepte oder Strategien, die Teilbereiche abdecken (z.B. OGD-Strategie, Digitalisierungsstrategie, Statistikstrategie)?
 * Wer sind die wichtigsten Stakeholder beim Thema Daten in der Organisation?
 
-
-
 </details>
-<br/>

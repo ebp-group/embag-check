@@ -80,4 +80,3 @@ Diese Aufbereitung kann verschiedene Aspekte umfassen:
 * Wo ist die Datenaufbereitung dokumentiert?
   
 </details>
-<br/>
