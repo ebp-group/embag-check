@@ -6,7 +6,7 @@ Das [Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Beh
 
 Mit dem EMBAG wurde eine gesetzliche Grundlage für Open Government Data und Open Source Software (OSS) geschaffen und es enthält Bestimmungen zu elektronischen Schnittstellen (APIs).
 
-{% include red-side.html content="Das EMBAG soll Nutzung von Software (Open Source) und Daten (OGD) fördern." %}
+{% include red-side.html content="Das EMBAG soll die gemeinsame Nutzung von Software (OSS), Daten (OGD) und Standards fördern." %}
 
 Es geht unter anderem um...
 
