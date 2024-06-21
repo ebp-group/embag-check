@@ -2,6 +2,33 @@
 title:  Organisatorische Aspekte
 ---
 
+<div class="fan">
+<div class="section" onclick="openFan(event)">
+
+<div class="heading">
+    <div class="text">
+        Rolle bewusst festlegen
+    </div>
+    <div class="icon">
+        <div class="open">
+            <img alt="" src="/assets/images/chevron_grau.svg">
+        </div>
+        <div class="close">
+            <img alt="" src="/assets/images/minus_grau.svg">
+        </div>
+    </div>
+</div>
+    <div class="description">
+        <p>Klären Sie in den einzelnen Projekten ganz bewusst, welche Rolle Sie als Stadt übernehmen wollen. Diese kann ganz unterschiedlich sein: Als Initiantin, Geldgeberin, (Mit-)Entwicklerin, Testanwenderin oder Bewilligungsbehörde. Dabei ist es wichtig, </p>
+        <ul>
+        <li>Rolle und Erwartungen klar zu kommunizieren. Damit vermeiden Sie falsche Erwartungen und Missverständnisse. </li>
+        <li>Schwerpunkte zu setzen. Sie können und müssen das Rad nicht überall neu erfinden. In vielen Bereichen können Sie auf bestehende Erfahrungen oder Produkte zurückgreifen. </li>
+        <li>projektspezifische Schnittstellen zu klären. Denn vielfach sind Sie als Stadt in einem Projekt in verschiedenen Funktionen beteiligt.</li>
+        </ul>
+    </div>
+</div>
+
+
 ![Pflicht: EMBAG Art. 2](https://img.shields.io/badge/Pflicht-EMBAG_Art._2-linen)
 <details>
 <summary>Meine Organisation ist vom EMBAG betroffen.</summary>
