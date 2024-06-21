@@ -14,7 +14,7 @@ Bei neuen oder aktualisierten Daten sollte geprüft werden, wie und ob Daten als
 * Wer stösst diesen Prozess an?
 * Wer muss das OK für eine Veröffentlichung geben?
 * Müssen die Metadaten angepasst werden?
-  
+
 </details>
 <br/>
 
@@ -78,5 +78,5 @@ Diese Aufbereitung kann verschiedene Aspekte umfassen:
 
 * Ist die Datenaufbereitung automatisiert?
 * Wo ist die Datenaufbereitung dokumentiert?
-  
+
 </details>

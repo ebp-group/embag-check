@@ -86,7 +86,7 @@ Sogenannte “Communities of Practice” (CoP) sind ein effektiver Weg um Person
 <details>
 <summary>Es gibt eine Strategie, wie mit dem Thema Daten umgegangen wird.</summary>
 <br/>
-  
+
 Eine solche Strategie umfasst üblicherweise die Bereiche Erhebung/Beschaffung, Datenbewirtschaftung, Publikation und Datennutzung. Sie kann auch weitere Themen wie ein Rollenkonzept oder die Data Governance umfassen.
 
 **Folgefragen:**

@@ -18,7 +18,7 @@ Es gibt aber Ausnahmen von dieser Regeln:
 **Folgefragen**
 
 * Ist es denkbar, dass diese Software auch noch von anderen Organisationen eingesetzt wird (anderes Amt, Kanton, Gemeinde, Private)?
-  
+
 </details>
 <br/>
 
@@ -45,7 +45,7 @@ Bekannte Vertreter:
 * Ist starkes “Copyleft” erwünscht (die Software bleibt offen)?
 * Wo wird/soll die Software künftig zum Einsatz kommen?
 * Ist ggf. eine Dual License möglich?
-  
+
 </details>
 <br/>
 
@@ -63,5 +63,5 @@ Ganz allgemein stellt sich die Frage, wie die Community des OSS-Projekts aussehe
 * Wo ist das OSS-Projekt publiziert (GitHub, GitLab, etwas eigenes)?
 * Wie kann mit dem Projekt interagiert werden (Diskussionen, Chat, Bug Reports, …)?
 * Wie wird mit Forks des Projekts umgegangen?
-  
+
 </details>

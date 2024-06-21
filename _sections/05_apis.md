@@ -31,7 +31,7 @@ Gerade grosse Datenmengen werden sinnvollerweise als API angeboten, so dass Date
 
 * Wie oft werden die Daten aktualisiert?
 * Wie oft werden die Daten konsumiert?
-  
+
 </details>
 <br/>
 
@@ -48,5 +48,5 @@ Für REST-APIs hat sich OpenAPI als Standard etabliert, welches dann von geeigne
 
 * Gibt es eine zentrale Stelle, an der die Dokumentation zugänglich gemacht wird (z.B. Developer Portal)?
 * Ist die Dokumentation up-to-date bzw. wer ist dafür verantwortlich?
-  
+
 </details>
