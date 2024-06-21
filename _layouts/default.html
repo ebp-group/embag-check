@@ -69,14 +69,11 @@
                 <img alt="" src="{{ '/assets/images/lead_image.png'  | relative_url }}" />
             </div>
           </div>  
-          {% for page in site.pages %}
-          {% if page.home == 'true' %}
-            {% continue %}
-          {% endif %}
-          <div class="container common" id="{{ page.title }}">
+          {% for section in site.sections %}
+          <div class="container common" id="{{ section.title }}">
           <div class="title nav" onClick="openNav(event)">
               <div class="text">
-                {{ page.title }}
+                {{ section.title }}
               </div>
               <div class="image">
                   <div class="open">
@@ -88,7 +85,7 @@
               </div>
           
           <div class="content">
-            {{ page.content }}
+            {{ section.content }}
           </div>
         </div>
         </div>
