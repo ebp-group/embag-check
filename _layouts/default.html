@@ -87,7 +87,7 @@
               </div>
             </div>
             <div class="content">
-              {{ section.content }}
+              {{ section.content | markdownify }}
             </div>
           </div>
         {% endfor %}
