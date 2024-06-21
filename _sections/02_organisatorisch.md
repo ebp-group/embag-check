@@ -11,7 +11,7 @@ Falls die Organisation zur **zentralen Bundesverwaltung** zählt, ist sie auf je
 
 * Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Katon/Gemeinde gelten könnten?
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details, badge=badge %}¨
+{% include hidden-detail.html summary=summary details=details badge=badge %}¨
 {% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
@@ -27,7 +27,7 @@ EMBAG Art. 3 beschreibt den Grundsatz, dass Bundesbehörden “elektronische Mit
 * Gibt es je nach Daten unterschiedliche Regeln die gelten?
 * Wer kümmert sich um die Einführung und Einhaltung der Regeln?
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details, badge=badge %}
+{% include hidden-detail.html summary=summary details=details badge=badge %}
 {% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
@@ -40,7 +40,7 @@ Falls zusätzliche Aufgaben anfallen, muss definiert werden, wer diese übernimm
 
 * Gibt es Dienstleistungen, welche zentral angeboten werden (z.B. Datenkatalog, Qualitätssicherung)?
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details, badge=badge %}
+{% include hidden-detail.html summary=summary details=details badge=badge %}
 {% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
@@ -58,7 +58,7 @@ Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprech
 * Wer ist zuständig, dass der Datensatz regelmässig aktualisiert wird?
 * Sind die (Teil-)Prozesse bereits automatisiert?
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details, badge=badge %}
+{% include hidden-detail.html summary=summary details=details badge=badge %}
 {% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
@@ -73,7 +73,7 @@ Sogenannte “Communities of Practice” (CoP) sind ein effektiver Weg um Person
 * Wie werden neue Mitarbeiter auf die CoP aufmerksam?
 * Welcher Zeitpunkt passt am besten für ein solches Treffen (z.B. Z’nüni Veranstaltung, gemeinsames Mittagessen oder doch lieber Feierabendbier in einem externen Lokal)? 
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details, badge=badge %}
+{% include hidden-detail.html summary=summary details=details badge=badge %}
 {% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
@@ -87,5 +87,5 @@ Eine solche Strategie umfasst üblicherweise die Bereiche Erhebung/Beschaffung, 
 * Gibt es bereits Konzepte oder Strategien, die Teilbereiche abdecken (z.B. OGD-Strategie, Digitalisierungsstrategie, Statistikstrategie)?
 * Wer sind die wichtigsten Stakeholder beim Thema Daten in der Organisation?
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details, badge=badge %}
+{% include hidden-detail.html summary=summary details=details badge=badge %}
 {% comment %}==============================================================================================================================={% endcomment %}
