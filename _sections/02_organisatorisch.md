@@ -11,7 +11,7 @@ Falls die Organisation zur **zentralen Bundesverwaltung** zählt, ist sie auf je
 
 * Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Katon/Gemeinde gelten könnten?
 {% endcapture %}
-{% include hidden-detail.html summary=summary details=details badge=badge %}¨
+{% include hidden-detail.html summary=summary details=details badge=badge %}
 {% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
