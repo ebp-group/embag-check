@@ -70,7 +70,7 @@
             </div>
           </div>  
           {% for page in site.pages %}
-          {% if page.url == '/index.html' %}
+          {% if page.home == 'true' %}
             {% continue %}
           {% endif %}
           <div class="container common" id="{{ page.title }}">
