@@ -296,7 +296,7 @@ HEADER
 /* 600px or larger */
 @media only screen and (min-width: 600px){
     .common.container{
-        background-color: #f8f7f7;
+        background-color: white;
         padding-bottom: 20px;
     }
 
@@ -310,8 +310,14 @@ HEADER
         font-size: 36px;
     }
 
+    /*
     .common.container:nth-child(2n+2){
         background-color: white;
+    }
+    */
+
+    .common.container:first-child, .common.container:last-child {
+        background-color: #f8f7f7;
     }
 
     .common .content{
@@ -1423,7 +1429,7 @@ Impressum
     .kontakt-container{
         justify-content: space-evenly;
         padding-top: 34px;
-		padding-bottom: 189px;
+		padding-bottom: 90px;
     }
 
     .kontakt-item .name{
