@@ -316,7 +316,11 @@ HEADER
     }
     */
 
-    .common.container:first-child, .common.container:last-child {
+    .common.container:last-child{
+        background-color: #f8f7f7;
+    }
+
+    .common.container:first-child{
         background-color: #f8f7f7;
     }
 
