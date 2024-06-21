@@ -6,7 +6,8 @@
 	{% seo title=false %}
 	<title>{{ site.title | default: site.github.repository_name }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6056934/6760552/css/fonts.css" />
+    <!--<link rel="stylesheet" type="text/css" href="https://cloud.typography.com/6056934/6760552/css/fonts.css" />-->
+    <link rel="stylesheet" type="text/css" href="{{ '/assets/css/fonts.css' | relative_url }}" />
 	 
     <link rel="shortcut icon" href="https://www.ebp.ch/themes/custom/ebp/kilokilo/images/favicon/favicon.ico">
     <link rel="icon" type="image/png" href="https://www.ebp.ch/themes/custom/ebp/kilokilo/images/favicon/favicon-16x16.png" sizes="16x16">
