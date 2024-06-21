@@ -45,8 +45,8 @@ window.onresize = function (x) {
 }
 
 window.onclick = function (event) {
-    closeDropdown('filter-goal');
-    closeDropdown('filter-actor');
+    //closeDropdown('filter-goal');
+    //closeDropdown('filter-actor');
     closeHamburger(event);
 }
 
