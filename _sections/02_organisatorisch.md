@@ -2,33 +2,6 @@
 title:  Organisatorische Aspekte
 ---
 
-<div class="fan">
-<div class="section" onclick="openFan(event)">
-
-<div class="heading">
-    <div class="text">
-        Rolle bewusst festlegen
-    </div>
-    <div class="icon">
-        <div class="open">
-            <img alt="" src="/assets/images/chevron_grau.svg">
-        </div>
-        <div class="close">
-            <img alt="" src="/assets/images/minus_grau.svg">
-        </div>
-    </div>
-</div>
-    <div class="description">
-        <p>Klären Sie in den einzelnen Projekten ganz bewusst, welche Rolle Sie als Stadt übernehmen wollen. Diese kann ganz unterschiedlich sein: Als Initiantin, Geldgeberin, (Mit-)Entwicklerin, Testanwenderin oder Bewilligungsbehörde. Dabei ist es wichtig, </p>
-        <ul>
-        <li>Rolle und Erwartungen klar zu kommunizieren. Damit vermeiden Sie falsche Erwartungen und Missverständnisse. </li>
-        <li>Schwerpunkte zu setzen. Sie können und müssen das Rad nicht überall neu erfinden. In vielen Bereichen können Sie auf bestehende Erfahrungen oder Produkte zurückgreifen. </li>
-        <li>projektspezifische Schnittstellen zu klären. Denn vielfach sind Sie als Stadt in einem Projekt in verschiedenen Funktionen beteiligt.</li>
-        </ul>
-    </div>
-</div>
-
-
 ![Pflicht: EMBAG Art. 2](https://img.shields.io/badge/Pflicht-EMBAG_Art._2-linen)
 <details>
 <summary>Meine Organisation ist vom EMBAG betroffen.</summary>
@@ -89,6 +62,39 @@ Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprech
 * Wer bereitet den Datensatz auf?
 * Wer ist zuständig, dass der Datensatz regelmässig aktualisiert wird?
 * Sind die (Teil-)Prozesse bereits automatisiert?
+
+</details>
+<br/>
+
+![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
+<details>
+<summary>Es gibt einen regelmässigen Austausch der daten-affinen Personen in meiner Organisation.</summary>
+<br/>
+  
+Sogenannte “Communities of Practice” (CoP) sind ein effektiver Weg um Personen, die an ähnlichen Themen arbeiten über Abteilungsgrenzen hinweg miteinander zu vernetzen. Gerade im Daten-Bereich gibt es oft ähnliche Fragestellungen (z.B. Anonymisierung, Metadaten, gemeinsame Infrastruktur), die sich optimal in einer CoP besprechen lassen.
+
+**Folgefragen:**
+
+* Wer leitet die CoP bzw. wer lädt dazu ein?
+* Wie werden neue Mitarbeiter auf die CoP aufmerksam?
+* Welcher Zeitpunkt passt am besten für ein solches Treffen (z.B. Z’nüni Veranstaltung, gemeinsames Mittagessen oder doch lieber Feierabendbier in einem externen Lokal)? 
+
+</details>
+<br/>
+
+![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
+<details>
+<summary>Es gibt eine Strategie, wie mit dem Thema Daten umgegangen wird.</summary>
+<br/>
+  
+Eine solche Strategie umfasst üblicherweise die Bereiche Erhebung/Beschaffung, Datenbewirtschaftung, Publikation und Datennutzung. Sie kann auch weitere Themen wie ein Rollenkonzept oder die Data Governance umfassen.
+
+**Folgefragen:**
+
+* Gibt es bereits Konzepte oder Strategien, die Teilbereiche abdecken (z.B. OGD-Strategie, Digitalisierungsstrategie, Statistikstrategie)?
+* Wer sind die wichtigsten Stakeholder beim Thema Daten in der Organisation?
+
+
 
 </details>
 <br/>

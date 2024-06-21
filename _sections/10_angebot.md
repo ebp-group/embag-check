@@ -1,7 +1,11 @@
 ---
-title:  Angebot EBP
+title:  Angebot
 ---
 
-* 1h kostenlosen Beratungsgespräch (online/vor Ort) um die Ergebnisse der Checkliste zu besprechen
-* Anschliessend Möglichkeit für 3’500 CHF (2AT) ein Minibericht mit den wichtigsten Erkenntnissen/Empfehlungen für die Organisation
-* Zusätzliche Beratung nach Aufwand (Stundensatz 190 CHF)
+EBP möchte Sie gerne bei der allfälligen Umsetzung der Empfehlungen unterstützen.
+
+Unser Angebot an Sie:
+
+* **1 Stunde kostenlosen Beratungsgespräch** (online) um die Ergebnisse der Checkliste zu besprechen
+* Anschliessend besteht die Möglichkeit für **3’500 CHF** einen **Kurzbericht** mit den wichtigsten Erkenntnissen/Empfehlungen für die Organisation zu erhalten
+* Zusätzliche Beratung nach Aufwand
