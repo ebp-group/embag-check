@@ -59,9 +59,9 @@
                 </div>
             </div>
           </div>
-          <div class="container intro" id="{{ page.title | default: site.title }}">
+          <div class="container intro" id="{{ page.title }}">
             <div class="title">
-              {{ page.title | default: site.title }}
+              {{ page.title }}
             </div>
             <div class="content">
                 {{ content }}
@@ -72,8 +72,18 @@
           </div>  
           {% for section in site.sections %}
           <div class="container common" id="{{ section.title }}">
-            <div class="title">
-              {{ section.title }}
+            <div class="title nav" onClick="openNav(event)">
+              <div class="text">
+                {{ section.title }}
+              </div>
+              <div class="image">
+                <div class="open">
+                    <img alt="" src="/user/themes/smart-city/images/chevron_rot.svg" />
+                </div>
+                <div class="close">
+                    <img alt="" src="/user/themes/smart-city/images/minus_grau.svg" />
+                </div>
+              </div>
             </div>
             <div class="content">
               {{ section.content }}
@@ -82,8 +92,18 @@
         {% endfor %}
 
         <div class="container common kontakt grey" id="kontakt">
-          <div class="title">
-            Kontakt
+          <div class="title nav" onClick="openNav(event)">
+            <div class="text">
+              Kontakt
+            </div>
+            <div class="image">
+              <div class="open">
+                  <img alt="" src="/user/themes/smart-city/images/chevron_rot.svg" />
+              </div>
+              <div class="close">
+                  <img alt="" src="/user/themes/smart-city/images/minus_grau.svg" />
+              </div>
+            </div>
           </div>
           <div class="content">
             <div class="text">
