@@ -1,3 +1,9 @@
+
+{% if include.badge contains 'Pflicht' %}
+![{{ include.badge }}](https://img.shields.io/badge/{{ include.badge | replace " ", "_" }}-linen)
+{% else %}
+![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
+{% endif %}
 <details>
 <summary>{{ include.summary }}</summary>
 <br/>
