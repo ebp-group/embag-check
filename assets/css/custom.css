@@ -1421,7 +1421,7 @@ Impressum
     }
 
     .kontakt-container{
-        justify-content: space-between;
+        justify-content: space-evenly;
         padding-top: 34px;
 		padding-bottom: 189px;
     }
