@@ -85,13 +85,45 @@
               </div>
           
           <div class="content">
-            {{ content }}
+            {{ site.lead_text }}
           </div>
+          <div class="container common" id="Was ist eine Smart City?">
+            <div class="title nav" onClick="openNav(event)">
+                <div class="text">
+                    Was ist eine Smart City?
+                </div>
+                <div class="image">
+                    <div class="open">
+                        <img alt="" src="{{ '/assets/images/chevron_rot.svg'  | relative_url }}" />
+                    </div>
+                    <div class="close">
+                        <img alt="" src="{{ '/assets/images/minus_grau.svg'  | relative_url }}" />
+                    </div>
+                </div>
+            
+            <div class="content">
+              {{ content }}
+            </div>
       </section>
+
+
       
-      <footer>
-	      <div>&copy; 2024 EBP Schweiz AG</div>
-      </footer>
+      <div class="footer container">
+        <div class="logo">
+         <img alt="" src="{{ '/assets/images/logo.svg'  | relative_url }}" />
+         <div class="copyright">
+            © Copyright 2024
+         </div>
+        </div>
+    
+        <div class="logo-text">
+            ©EBP 2024
+        </div>
+    <div>
+                                </section>
+               </div>
+       <div id="toTop" style="display: block;"><i class="fa fa-angle-up"></i></div>
+            </div>
     </div>
     </div>
    
