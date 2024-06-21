@@ -1,5 +1,5 @@
 ---
-title: EMBAG-Check (yay!)
+title: EMBAG-Check
 layout: default
 home: true
 ---
