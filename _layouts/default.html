@@ -68,7 +68,7 @@
             <div class="img">
                 <img alt="" src="{{ '/assets/images/lead_image.png'  | relative_url }}" />
             </div>
-          </div>
+          </div>  
           {% for page in site.pages %}
           {% if page.url == '/index.html' %}
             {% continue %}
@@ -90,6 +90,7 @@
           <div class="content">
             {{ page.content }}
           </div>
+        </div>
         </div>
         {% endfor %}
 
