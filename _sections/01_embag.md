@@ -3,6 +3,9 @@ title:  Was ist das EMBAG?
 ---
 
 Das [Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben (EMBAG)](https://www.fedlex.admin.ch/eli/fga/2023/787/de) ist ein Gesetz, welches verschiedene Aspekte der Digitalisierung adressiert.
+
+{% include red-side.html content="Das EMBAG soll Nutzung von Software (Open Source) und Daten (OGD) fördern." %}
+
 Es geht unter anderem um...
 
 * ...die Veröffentlichung von **Open Government Data (OGD)**
