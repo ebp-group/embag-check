@@ -58,18 +58,21 @@
                 </div>
             </div>
           </div>
-          <div class="container intro" id="{{ site.title | default: site.github.repository_name }}">
+          <div class="container intro" id="{{ page.title | default: site.title }}">
             <div class="title">
-              {{ site.title | default: site.github.repository_name }}
+              {{ page.title | default: site.title }}
             </div>
             <div class="content">
-                <p>Das neue EMBAG-Gesetz, welches ab 1.1.2024 in Kraft getreten ist, bringt einige Neuerungen mit sich, auf sich die Bundesverwaltung einstellen muss. Der EMBAG-Check soll dabei helfen, Bereiche zu idenfizieren, bislang noch nicht adressiert wurden. Gerne beraten wir Sie bei der konkreten Umsetzung der vorgeschlagenen Massnahmen.</p>
+                {{ content }}
             </div>
             <div class="img">
                 <img alt="" src="{{ '/assets/images/lead_image.png'  | relative_url }}" />
             </div>
           </div>
           {% for page in site.pages %}
+          {% if page.url == '/index.html' %}
+            {% continue %}
+          {% endif %}
           <div class="container common" id="{{ page.title }}">
           <div class="title nav" onClick="openNav(event)">
               <div class="text">
