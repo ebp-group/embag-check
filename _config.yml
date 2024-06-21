@@ -4,4 +4,5 @@ description: Ist deine Organisation EMBAG-ready?
 show_downloads: false
 share_image: http://smartcity.ebp.ch/user/themes/smart-city/images/Tool-Open-Data-Plattform.JPG
 exclude:
+  - assets/
   - README.md
