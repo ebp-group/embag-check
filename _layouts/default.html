@@ -72,24 +72,13 @@
           </div>  
           {% for section in site.sections %}
           <div class="container common" id="{{ section.title }}">
-          <div class="title nav" onClick="openNav(event)">
-              <div class="text">
-                {{ section.title }}
-              </div>
-              <div class="image">
-                  <div class="open">
-                      <img alt="" src="{{ '/assets/images/chevron_rot.svg'  | relative_url }}" />
-                  </div>
-                  <div class="close">
-                      <img alt="" src="{{ '/assets/images/minus_grau.svg'  | relative_url }}" />
-                  </div>
-              </div>
-          
-          <div class="content">
-            {{ section.content }}
+            <div class="title">
+              {{ section.title }}
+            </div>
+            <div class="content">
+              {{ section.content }}
+            </div>
           </div>
-        </div>
-        </div>
         {% endfor %}
 
       
