@@ -30,34 +30,69 @@
   <meta name="author" content="EBP" />
   <meta property="og:image" content="{{ site.share_image }}" />
   <meta name="image" content="{{ site.share_image }}" />
+
+  <script src="{{ '/assets/js/general.js'  | relative_url }}"></script>
+  <script src="{{ '/assets/js/nav.js'  | relative_url }}"></script>
+  <script src="{{ '/assets/js/dropdown.js'  | relative_url }}"></script>
+  <script src="{{ '/assets/js/hamburger.js'  | relative_url }}"></script>
 	
   </head>
   <body>
-
-    <header>
-	  <a href="/"><div class="container">
-		  <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="115px" height="35px" viewBox="0 0 115 35" enable-background="new 0 0 115 35" xml:space="preserve"><g><path fill="#B23034" d="M22.5,9.5c-0.9-3.7-2.5-6.4-6.2-6.4H9.1v13.6h4.2c2.6,0,4.3-1.4,4.7-4.8h0.7v10.5H18      c-0.4-3.5-2-4.8-4.7-4.8H9.1v14.2H16c3.7,0,5.8-2.1,7-6.4h0.7l-0.4,7.2H0.8V32c3-0.2,3.3-0.3,3.3-1.9V4.9c0-1.6-0.3-1.7-3.3-1.9      V2.3H23l0.2,7.2H22.5z"></path>		
-                          <path fill="#B23034" d="M39.3,31.9c4.9,0,6-3.7,6-7.4c0-4-2.1-6.9-7.1-6.9H35v14.4H39.3z M38,16.6c4.3,0,6.2-2.6,6.2-6.5      c0-4-1.5-7-5.7-7H35v13.4H38z M26.7,32c3-0.2,3.3-0.3,3.3-1.9V4.9c0-1.6-0.3-1.7-3.3-1.9V2.3h12.7c6.5,0,10,3,10,7.4      c0,3.5-2.9,6.4-8.1,7.2V17c7.1,0.9,9.4,4.3,9.4,7.7c0,4.8-3.5,8-10,8h-14V32z"></path>		
-                          <path fill="#B23034" d="M61.7,18.9h3.1c5.6,0,7.1-4.1,7.1-7.9c0-3.5-1.4-7.9-6.1-7.9h-4V18.9z M67,2.3c6.5,0,10.2,3.5,10.2,8.2      c0,4.3-3.1,9.2-12.2,9.2h-3.3v10.3c0,1.6,0.3,1.7,3.3,1.9v0.7H53.4V32c3-0.2,3.3-0.3,3.3-1.9V4.9c0-1.6-0.4-1.7-3.3-1.9V2.3H67z"></path>		
-                          <path fill="#908783" d="M100.3,6.1c6.4,1.7,10.3,8.3,8.5,14.8c-1.7,6.4-8.3,10.3-14.8,8.5c-6.4-1.7-10.3-8.3-8.5-14.8      C87.3,8.2,93.9,4.4,100.3,6.1 M93.7,30.9c7.3,1.9,14.7-2.4,16.6-9.6c2-7.3-2.4-14.7-9.6-16.6C93.5,2.7,86,7,84.1,14.3      C82.1,21.5,86.4,29,93.7,30.9"></path>		
-                          <path fill="#908783" d="M93.2,32.7C84.9,30.5,80,22,82.3,13.8c2.2-8.2,10.7-13.1,18.9-10.9c8.2,2.2,13.1,10.7,10.9,18.9l1.5,0.4      c2.4-9.1-3-18.4-12-20.8c-9.1-2.4-18.4,3-20.8,12c-2.4,9.1,2.9,18.4,12,20.8L93.2,32.7z"></path>		
-                          <path fill="#908783" d="M97.2,9.1c4.8,0,8.7,3.9,8.7,8.7c0,4.8-3.9,8.7-8.7,8.7c-2.4,0-4.6-1-6.1-2.5L90,25c1.8,1.8,4.4,3,7.2,3      c5.6,0,10.2-4.6,10.2-10.2c0-5.6-4.6-10.2-10.2-10.2V9.1z"></path></g></svg>
-        <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-      </div></a>
-    </header>
-
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        {{ content }}
-
+    <body id="top" class="">
+      <div class="top-wrapper">
+          
+      <div id="content-wrapper">
+        <section id="body">
+          <div class="header" id="header">
+            <div class="header-image-desktop">
+                <img alt="" src="/user/themes/smart-city/images/header_picture_desktop.svg" />
+            </div>
+            <div class="header-image-mobile">
+                <img alt="" src="/user/themes/smart-city/images/header_picture_mobile.svg" />
+            </div>
+            <div class="title">
+                <div class="logo">
+                    <img alt="" src="/user/themes/smart-city/images/ebp_logo.svg" />
+                </div>
+                <div class="hamburger" onclick="openHamburger()">
+                    <img alt="" src="/user/themes/smart-city/images/hamburger.svg" />
+                </div>
+            </div>
+          </div>
+          <div class="container intro" id="Smart City Guide">
+            <div class="title">
+              {{ site.title | default: site.github.repository_name }}
+            </div>
+            <div class="content">
+                <p>Was ist eine Smart City? Welche Vorteile bringt sie für Bevölkerung, Wirtschaft und Verwaltung? Und wie wird eine Stadt überhaupt smart? Gemeinsam mit den Städten Aarau, Baden, Dietikon, Dübendorf, Kloten, Schaffhausen und Zug haben wir Antworten gesucht. Mit den Ergebnissen möchten wir auch andere Städte und Gemeinden motivieren, smarter zu werden. Sie finden hier zu Ihnen passende Smart City-Massnahmen und Tipps für die Umsetzung.</p>
+            </div>
+            <div class="img">
+                <img alt="" src="/user/themes/smart-city/images/2019-12-01_SmartCity_Photo_v02-2x.png" />
+            </div>
+          </div>
+          <div class="container common" id="Was ist eine Smart City?">
+          <div class="title nav" onClick="openNav(event)">
+              <div class="text">
+                  Was ist eine Smart City?
+              </div>
+              <div class="image">
+                  <div class="open">
+                      <img alt="" src="/user/themes/smart-city/images/chevron_rot.svg" />
+                  </div>
+                  <div class="close">
+                      <img alt="" src="/user/themes/smart-city/images/minus_grau.svg" />
+                  </div>
+              </div>
+          
+          <div class="content">
+            {{ content }}
+          </div>
       </section>
+      
       <footer>
 	      <div>&copy; 2024 EBP Schweiz AG</div>
       </footer>
+    </div>
     </div>
    
   </body>

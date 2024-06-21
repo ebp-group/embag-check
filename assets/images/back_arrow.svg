@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Arrow_Button" width="27.516" height="22" data-name="Arrow Button" viewBox="0 0 27.516 22">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#af2832}
+        </style>
+    </defs>
+    <path id="Rectangle_51" d="M0 0h27.517v22H0z" class="cls-1" data-name="Rectangle 51"/>
+    <path id="Path_311" d="M22.174 0H0" class="cls-2" data-name="Path 311" transform="translate(2.581 11)"/>
+    <path id="Path_312" d="M4.419 0L0 5.525l4.419 5.523" class="cls-2" data-name="Path 312" transform="translate(2.657 5.5)"/>
+</svg>
