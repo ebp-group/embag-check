@@ -3,18 +3,15 @@ title:  Organisatorische Aspekte
 ---
 
 ![Pflicht: EMBAG Art. 2](https://img.shields.io/badge/Pflicht-EMBAG_Art._2-linen)
-<details>
-<summary>Meine Organisation ist vom EMBAG betroffen.</summary>
-<br/>
-  
+{% capture details %}
 Falls die Organisation zur **zentralen Bundesverwaltung** zählt, ist sie auf jeden Fall vom EMBAG betroffen. Grundsätzlich gilt das auch für die dezentrale Bundesverwaltung (öffentlich-rechtliche Anstalten wie Post, SBB, SUVA, etc.) sofern der Bundesrat keine Ausnahme vorsieht (gemäss EMBAG Art. 2)
 
 **Folgefragen:**
 
 * Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Katon/Gemeinde gelten könnten?
+{% endcapture %}
+{% include hidden-detail.html summary="Meine Organisation ist vom EMBAG betroffen." details=details %}
 
-</details>
-<br/>
 
 ![Pflicht: EMBAG Art. 3](https://img.shields.io/badge/Pflicht-EMBAG_Art._3-linen)
 <details>
