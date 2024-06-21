@@ -1,6 +1,6 @@
 title: EMBAG-Check | EBP Schweiz
 description: Ist deine Organisation EMBAG-ready?
-share_image: http://smartcity.ebp.ch/user/themes/smart-city/images/Tool-Open-Data-Plattform.JPG
+share_image: https://ebp-group.github.io/embag-check/assets/images/bundeshaus_klein.png
 collections:
   - sections
   - contacts
