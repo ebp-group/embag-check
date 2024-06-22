@@ -317,15 +317,15 @@ HEADER
         font-size: 36px;
     }
 
-    /*
     .common.container:nth-child(2n+2){
         background-color: white;
     }
-    */
 
+    /*
     .common.container:nth-child(3) {
         background-color: #f8f7f7;
     }
+    */
 
     .common .content{
         margin: 35px 50px 0px 32px;
