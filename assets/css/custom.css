@@ -317,8 +317,8 @@ HEADER
         font-size: 36px;
     }
 
-    .common.container:nth-child(2n+2){
-        background-color: white;
+    .common.container:nth-child(2n+3){
+        background-color: #f8f7f7;
     }
 
     /*
