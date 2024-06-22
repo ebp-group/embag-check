@@ -1,18 +1,11 @@
 ---
 title:  Organisatorische Aspekte
 ---
-{% comment %}==============================================================================================================================={% endcomment %}
-{% assign summary = "Meine Organisation ist vom EMBAG betroffen."Es gibt eine Data Governance für meine Organisation." %}
-{% assign badge = "Pflicht: EMBAG Art. 2" %}
-{% capture details %}
-Falls die Organisation zur **zentralen Bundesverwaltung** zählt, ist sie auf jeden Fall vom EMBAG betroffen. Grundsätzlich gilt das auch für die dezentrale Bundesverwaltung (öffentlich-rechtliche Anstalten wie Post, SBB, SUVA, etc.) sofern der Bundesrat keine Ausnahme vorsieht (gemäss EMBAG Art. 2)
 
-**Folgefragen:**
+{% for para in site.org %}
+    {% include hidden-detail.html summary=para.summary details=para.content badge=para.badge %}
+{% endfor %}
 
-* Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Katon/Gemeinde gelten könnten?
-{% endcapture %}
-{% include hidden-detail.html summary=summary details=details badge=badge %}
-{% comment %}==============================================================================================================================={% endcomment %}
 
 {% comment %}==============================================================================================================================={% endcomment %}
 {% assign summary = "Es gibt eine Data Governance für meine Organisation." %}
