@@ -30,10 +30,10 @@
   <meta property="og:image" content="{{ site.share_image }}" />
   <meta name="image" content="{{ site.share_image }}" />
 
-  <script src="{{ '/assets/js/general.js'  | relative_url }}"></script>
-  <script src="{{ '/assets/js/nav.js'  | relative_url }}"></script>
-  <script src="{{ '/assets/js/dropdown.js'  | relative_url }}"></script>
-  <script src="{{ '/assets/js/hamburger.js'  | relative_url }}"></script>
+  <script src="{{ '/assets/js/general.js?v=' | append: site.github.build_revision  | relative_url }}"></script>
+  <script src="{{ '/assets/js/nav.js?v=' | append: site.github.build_revision  | relative_url }}"></script>
+  <script src="{{ '/assets/js/dropdown.js?v=' | append: site.github.build_revision  | relative_url }}"></script>
+  <script src="{{ '/assets/js/hamburger.js?v=' | append: site.github.build_revision  | relative_url }}"></script>
 	
   </head>
   <body>
