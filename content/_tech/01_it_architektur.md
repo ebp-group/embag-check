@@ -7,7 +7,7 @@ Es ist zentral zu wissen, welche Systeme vorhanden sind und welche Schnittstelle
 
 Dazu kommen Fragestellungen zur Skalierbarkeit (vertikal oder horizontal) und dem Zugriffsschutz.
 
-EMBAG Art. 12 schreibt vor, die Interoperabilität zu unterstützen und internationale, offene Standards zu verwenden. 
+_[EMBAG Art. 12](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_12)_ schreibt vor, die Interoperabilität zu unterstützen und internationale, offene Standards zu verwenden. 
 
 **Folgefragen:**
 

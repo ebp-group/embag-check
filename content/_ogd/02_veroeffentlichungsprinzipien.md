@@ -16,6 +16,8 @@ badge: "Pflicht: EMBAG Art. 10"
 0. **Dauerhaftigkeit** (Permanence): Daten sollten (versioniert) für immer abrufbar bleiben
 0. **Nutzungskosten** (Usage Costs): kostenlose Nutzung
 
+Diese Grundsätze sind auch im im _[EMBAG Art. 10 Abs. 4](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_10)_ festgehalten.
+
 **Folgefragen**
 
 * Kennen wir die Bedürfnisse unserer Datennutzenden (z.B. bezüglich Maschinenlesbarkeit, offene Standards, Lizenzierung, Aktualisierung der Daten)?
