@@ -1480,6 +1480,12 @@ Impressum
 
 }
 
+#toTop img {
+    width: 20px;
+    vertical-align: middle;
+    margin-top: 4px
+}
+
 /*
 --------------
   Footer 
