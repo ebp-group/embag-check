@@ -19,6 +19,11 @@ function set_svg_size() {
     }
 }
 
+window.openFromMenu(id) {
+    var parent = document.getElementById(id)
+    parent.firstElementChild.click();
+}
+
 function fillBurgerMenu(){
     let children = document.getElementById('body').children;
     let burgerMenu = document.getElementsByClassName('hamburger')[0];
@@ -38,11 +43,6 @@ function fillBurgerMenu(){
         }
     }
     burgerMenu.appendChild(div);
-}
-
-function openFromMenu(id) {
-    var parent = document.getElementById(id)
-    parent.firstElementChild.click();
 }
 
 window.onresize = function (x) {
