@@ -38,7 +38,9 @@ function fillBurgerMenu(){
             child_div.className = "menu-item";
             child_div.href = "#" + child.id;
             child_div.innerHTML = child.id[0].toUpperCase() + child.id.substr(1);
-            child_div.onclick = "openFromMenu(" + child.id + ");";
+            child_div.addEventListener('click', function() {
+                openFromMenu(child.id)
+            });
             div.appendChild(child_div);
         }
     }
