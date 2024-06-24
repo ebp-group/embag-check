@@ -19,7 +19,7 @@ function set_svg_size() {
     }
 }
 
-window.openFromMenu(id) {
+window.openFromMenu(id) = function() {
     var parent = document.getElementById(id)
     parent.firstElementChild.click();
 }
