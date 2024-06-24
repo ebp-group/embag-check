@@ -1479,22 +1479,6 @@ Impressum
 	background-color:#d5cfcd;
 
 }
-#toTop .fa {
-
-    display: inline-block;
-    font: normal normal normal 14px/1 FontAwesome;
-        font-size: 14px;
-    font-size: inherit;
-    text-rendering: auto;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-
-}
-#toTop .fa-angle-up::before {
-
-    content: "\f106";
-
-}
 
 /*
 --------------
