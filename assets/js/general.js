@@ -29,23 +29,20 @@ function fillBurgerMenu(){
     for (let index = 1; index < children.length; index++) {
         const child = children[index];
         if(child.id){
-            openNavFn = openFromMenuFn(child.id)
             let child_div =  document.createElement('a');
             child_div.className = "menu-item";
             child_div.href = "#" + child.id;
             child_div.innerHTML = child.id[0].toUpperCase() + child.id.substr(1);
-            child_div.onclick = openNavFn;
+            child_div.onclick = "openFromMenu(" + child.id + ");";
             div.appendChild(child_div);
         }
     }
     burgerMenu.appendChild(div);
 }
 
-function openFromMenuFn(id) {
-    return function() {
-        var parent = document.getElementById(id)
-        parent.firstElementChild.click();
-    }
+function openFromMenu(id) {
+    var parent = document.getElementById(id)
+    parent.firstElementChild.click();
 }
 
 window.onresize = function (x) {
