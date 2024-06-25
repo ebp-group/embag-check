@@ -1,5 +1,5 @@
 ---
-claim: "Es ist definiert, wer und wie diese Software weiterentwickelt wird."
+claim: "Es ist definiert, wer und wie eingesetzte Software weiterentwickelt wird."
 badge: "Pflicht: EMBAG Art. 9"
 ---
 
