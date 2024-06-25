@@ -12,3 +12,5 @@ collections:
   - oss
 exclude:
   - README.md
+kramdown:  
+  parse_block_html: true
