@@ -1,6 +1,8 @@
 {% capture badge_content %}
 {% if include.badge contains 'Pflicht' %}
-![{{ include.badge }}](https://img.shields.io/badge/{{ include.badge | replace: ":", "-" | replace: " ", "_" }}-indianred)
+{% assign art_num = include.badge | split: " " | last %}
+{% fedlex_url = "https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_" | append: art_num}
+[![{{ include.badge }}](https://img.shields.io/badge/{{ include.badge | replace: ":", "-" | replace: " ", "_" }}-indianred)]({{fedlex_url}})
 {% else %}
 ![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
 {% endif %}
