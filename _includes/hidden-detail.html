@@ -11,7 +11,7 @@
             ![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
         {%- endif -%}
     {%- endcapture -%}
-    DEBUG Badges: {{ badge_content | strip | markdownify }}
+    {{ badge_content | strip | strip_newlines | markdownify }}
 {%- endfor -%}
 
 <dt>
