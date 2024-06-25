@@ -1,5 +1,5 @@
 ---
-claim: "Es ist definiert unter welche Lizenz die Software veröffentlich wird."
+claim: "Es ist definiert unter welcher Lizenz die Software veröffentlich wird."
 badge: "Pflicht: EMBAG Art. 9"
 ---
 
