@@ -66,6 +66,10 @@ a {
     margin-top: -10px;
 }
 
+dt {
+    font-weight: bold;
+}
+
 @media only screen and (max-width: 600px){
     .nav{
         color: #af2832;
