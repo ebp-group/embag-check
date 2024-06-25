@@ -1,7 +1,8 @@
 <div class="details">
 
-{% capture badge_content %}
-    {% for badge in include.badges %}
+
+{% for badge in include.badges %}
+    {% capture badge_content %}
         {% if badge contains 'Pflicht' %}
             {% assign art_num = badge | split: " " | last %}
             {% assign fedlex_url = "https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_" | append: art_num %}
@@ -9,9 +10,10 @@
         {% else %}
             ![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
         {% endif %}
-    {%- endfor %}
-{%- endcapture %}
-DEBUG Badges: {{ badge_content | markdownify }}
+    {%- endcapture %}
+    DEBUG Badges: {{ badge_content | markdownify }}
+{%- endfor %}
+
 <dt>
     {{ include.claim }}
 </dt>
