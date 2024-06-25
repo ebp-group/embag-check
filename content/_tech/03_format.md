@@ -1,6 +1,7 @@
 ---
 claim: "Es ist definiert welche Daten in welchem Format bereit gestellt werden."
-badge: "Pflicht: EMBAG Art. 12"
+badges:
+- "Pflicht: EMBAG Art. 12"
 ---
 
 Für die verschiedenen Arten von Daten sollte jede Organisation definieren, wie diese Daten zugänglich gemacht werden. Z.B. könnten tabellarische Daten als CSV, Parquet oder Excel bereitgestellt werden. Oder Geodaten als GeoPackage oder GeoJSON. Daten, die von einer Webapplikation konsumiert werden, werden am besten als JSON zur Verfügung gestellt.

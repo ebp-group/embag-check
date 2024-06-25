@@ -1,6 +1,7 @@
 ---
 claim: "Die OGD-Veröffentlichungsprinzipien sind bekannt und werden eingehalten."
-badge: "Pflicht: EMBAG Art. 10"
+badges:
+- "Pflicht: EMBAG Art. 10"
 ---
 
 [Die zehn Prinzipien der Sunlight Foundation](https://sunlightfoundation.com/policy/documents/ten-open-data-principles/) haben bis heute ihre Gültigkeit. Sie beschreiben wie Daten veröffentlich werden sollen.

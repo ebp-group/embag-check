@@ -1,6 +1,7 @@
 ---
 claim: "Es ist definiert über welchen Kanal/Portal die Daten zur Verfügung gestellt werden?"
-badge: "Pflicht: EMBAG Art. 14"
+badges:
+- "Pflicht: EMBAG Art. 14"
 ---
 
 Für OGD in der Schweiz gibt es einige etablierte Kanäle (z.B. [opendata.swiss](https://opendata.swiss/), [I14Y-Plattform](https://www.i14y.admin.ch/de/home), [Geocat](https://www.geocat.ch/)), so dass Daten einer breiten Öffentlichkeit zugänglich sind.

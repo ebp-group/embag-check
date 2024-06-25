@@ -1,6 +1,7 @@
 ---
 claim: "Es gibt einen regelmässigen Austausch der daten-affinen Personen in meiner Organisation."
-badge: "Freiwillig: Best Practice"
+badges:
+- "Freiwillig: Best Practice"
 ---
 
 Sogenannte «Communities of Practice» (CoP) sind ein effektiver Weg um Personen, mit ähnlichen Aufgaben und/oder Themen über Abteilungsgrenzen hinweg miteinander zu vernetzen. Gerade im Daten-Bereich gibt es oft ähnliche Fragestellungen (z.B. Anonymisierung, Metadaten, gemeinsame Infrastruktur, Datenaufbereitung), die sich optimal in einer CoP besprechen lassen.

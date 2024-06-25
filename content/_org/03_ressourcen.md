@@ -1,6 +1,10 @@
 ---
 claim: "Es ist bekannt, welche und wie viele Ressourcen (Zeit, Geld, Personen) für das Thema Daten aufgewendet werden können." 
-badge: "Pflicht: EMBAG Art. 7 / 15 / 16 / 17"
+badges:
+- "Pflicht: EMBAG Art. 7"
+- "Pflicht: EMBAG Art. 15"
+- "Pflicht: EMBAG Art. 16"
+- "Pflicht: EMBAG Art. 17"
 ---
 
 Falls zusätzliche Aufgaben anfallen, muss definiert werden, wer diese übernimmt. Grundsätzlich sind keine neuen Mittel für die Umsetzung des EMBAG vorgesehen.

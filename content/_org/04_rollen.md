@@ -1,6 +1,7 @@
 ---
 claim: "Die organisatorischen Zuständigkeiten/Rollen sind definiert."
-badge: "Freiwillig: Best Practice"
+badges:
+- "Freiwillig: Best Practice"
 ---
 
 Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprechperson zu finden. Je nach Modell werden verschiedene Rollen unterschieden, die Open Government Data Strategie des Bundes nennt folgende Rollen: Data Stewards, Data Custodian, Dateneigner

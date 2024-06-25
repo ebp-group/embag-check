@@ -1,6 +1,7 @@
 ---
 claim: "Es gibt eine Dokumentation der IT-Architektur."
-badge: "Pflicht: EMBAG Art. 12"
+badges:
+- "Pflicht: EMBAG Art. 12"
 ---
 
 Es ist zentral zu wissen, welche Systeme vorhanden sind und welche Schnittstellen/Abhängigkeiten diese zueinander haben. Dadurch kann auch festgestellt werden, wie der Datenfluss im System funktioniert, welche Systeme sich On-Premise oder in der Cloud befinden und welche Daten vorhanden sind.

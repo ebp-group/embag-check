@@ -1,6 +1,7 @@
 ---
 claim: "Es gibt eine Strategie, wie mit dem Thema Daten umgegangen wird."
-badge: "Freiwillig: Best Practice"
+badges:
+- "Freiwillig: Best Practice"
 ---
 
 Eine solche Strategie umfasst üblicherweise die Bereiche Erhebung/Beschaffung, Datenbewirtschaftung, Publikation und Datennutzung. Sie kann auch weitere Themen wie ein Rollenkonzept oder die Data Governance umfassen.

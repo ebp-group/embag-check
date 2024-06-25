@@ -1,6 +1,7 @@
 ---
 claim: "Regelmässige Arbeiten (z.B. Datenaufbereitungen, Publikation, Deployment) sind automatisiert."
-badge: "Freiwillig: Best Practice"
+badges:
+- "Freiwillig: Best Practice"
 ---
 
 Gerade im Zusammenhang mit Daten und Prozessen lassen sich viele Arbeitsschritte durch Automatisierung vereinfacher. Dies fördert die Standardisierung von Prozessen und vereinfacht die Übergabe an bzw. die Einarbeitung von neuen Mitarbeitern.

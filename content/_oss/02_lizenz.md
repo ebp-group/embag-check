@@ -1,6 +1,7 @@
 ---
 claim: "Es ist definiert unter welcher Lizenz die Software veröffentlich wird."
-badge: "Pflicht: EMBAG Art. 9"
+badges:
+- "Pflicht: EMBAG Art. 9"
 ---
 
 Das EMBAG macht klar, dass «[die Behörden] erlauben jeder Person, die Software zu nutzen, weiterzuentwickeln und weiterzugeben, und erheben keine Lizenzgebühren» und «Soweit möglich und sinnvoll sind international etablierte Lizenztexte zu verwenden» (_[EMBAG Art. 9](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_9)_). Somit sind alle etablierten OSS-Lizenzen denkbar (z.B. mit Copyleft). Wichtig ist sicher die Kompatibilität aller eingesetzten Komponenten (z.B. Programmbibliotheken).

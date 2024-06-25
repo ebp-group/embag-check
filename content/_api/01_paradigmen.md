@@ -1,6 +1,7 @@
 ---
 claim: "Die gängigen API-Paradigmen und Standards sind bekannt."
-badge: "Pflicht: EMBAG Art. 13"
+badges:
+- "Pflicht: EMBAG Art. 13"
 ---
 
 Für gewisse Daten gibt es bereits Standards, wie diese als API veröffentlich werden sollen (z.B. OGC für Geodaten oder Abstimmungsdaten als JSON-API).

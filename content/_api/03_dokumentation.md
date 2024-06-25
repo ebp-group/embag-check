@@ -1,6 +1,7 @@
 ---
 claim: "Die angebotenen Schnittstellen sind dokumentiert."
-badge: "Pflicht: EMBAG Art. 14"
+badges:
+- "Pflicht: EMBAG Art. 14"
 ---
 
 Um Nutzenden den Einstieg in die Nutzung einer API zu erleichtern, ist eine aktuelle, verständliche Dokumentation sehr wichtig. Zentral ist dabei, dass alle relevanten Endpunkte beschrieben sind, insbesondere die Parameter und die Wertelisten, die erwartet werden.

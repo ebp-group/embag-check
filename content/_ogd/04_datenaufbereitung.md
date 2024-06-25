@@ -1,6 +1,7 @@
 ---
 claim: "Für jeden Datensatz ist definiert, wie die Datenaufbereitung für OGD zu erfolgen hat."
-badge: "Freiwillig: Best Practice"
+badges:
+- "Freiwillig: Best Practice"
 ---
 
 Bei OGD handelt es sich per Definition um eine Sekundärnutzung von Daten. D.h. es geht um Daten, welche in Gebrauch sind und die für OGD aufbereitet werden.

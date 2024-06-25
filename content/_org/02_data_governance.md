@@ -1,6 +1,7 @@
 ---
 claim: "Es gibt eine Data Governance für meine Organisation." 
-badge: "Pflicht: EMBAG Art. 3"
+badges:
+- "Pflicht: EMBAG Art. 3"
 ---
 
 Data Governance beschreibt die Regeln, Prozesse und Rollen für die effektive Nutzung von Daten in einer Organisation. Es hilft diese Inhalte schriftlich festzuhalten, um diese in der Organisation bekannt zu machen und sich darauf beziehen zu können.

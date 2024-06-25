@@ -1,6 +1,7 @@
 ---
 claim: "Es ist definiert, wer und wie eingesetzte Software weiterentwickelt wird."
-badge: "Pflicht: EMBAG Art. 9"
+badges:
+- "Pflicht: EMBAG Art. 9"
 ---
 
 Sobald Software unter einer offenen Lizenz (OSS) veröffentlich wird, stellen sich einige zusätzliche Fragen, was die Weiterentwicklung betrifft (siehe auch _[EMBAG Art. 9](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_9)_). Es lohnt sich diese Fragen möglichst früh in einem Projekt zu klären und mögliche Lösungen zu entwickeln. Oft werden wird dazu eine Richtlinie erstellt, die zusammen mit der Software in einer Datei veröffentlicht wird ([Richtlinien für Repository-Mitarbeiter festlegen - GitHub-Dokumentation](https://docs.github.com/de/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors)). Diese Richtlinie sollte klarstellen wie mit Bug Reports und Pull Requests umgegangen wird.

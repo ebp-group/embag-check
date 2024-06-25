@@ -1,6 +1,7 @@
 ---
 claim: "Es ist bekannt, unter welchen Voraussetzungen Software als Open Source Software bereit gestellt werden muss."
-badge: "Pflicht: EMBAG Art. 9"
+badges:
+- "Pflicht: EMBAG Art. 9"
 ---
 
 Im Grundsatz muss jede Software, die von Organisationen die vom EMBAG betroffen sind (siehe oben “Meine Organisation ist vom EMBAG betroffen”) entwickelt wird, offengelegt werden. Sobald eine Software _selbst entwickelt_ wird oder ein Dienstleister diese _im Auftrag entwickelt_ (Dienstleistungsvertrag) muss diese als OSS zur Verfügung gestellt werden (_[EMBAG Art. 9](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_9)_).
