@@ -1,12 +1,11 @@
+{% capture badge_content %}
 {% if include.badge contains 'Pflicht' %}
-
 ![{{ include.badge }}](https://img.shields.io/badge/{{ include.badge | replace: ":", "-" | replace: " ", "_" }}-indianred)
-
 {% else %}
-
 ![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
-
 {% endif %}
+{%- endcapture %}
+{{ badge_content | markdownify }}
 <div class="details">
 <dt>
     {{ include.claim }}
