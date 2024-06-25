@@ -4,9 +4,9 @@
 {% else %}
 ![Freiwillig: Best Practice](https://img.shields.io/badge/Freiwillig-Best_Practice-blue)
 {% endif %}
-<details>
-<summary>{{ include.claim }}</summary>
-    
+<div class="details">
+<dt>{{ include.claim }}</dt>
+<dd>
 {{ include.details | markdownify }}
-
-</details>
+</dd>
+</div>

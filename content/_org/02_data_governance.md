@@ -9,5 +9,5 @@ _[EMBAG Art. 3](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_3)_ beschrei
 
 **Folgefragen:**
 
-* Gibt es je nach Daten unterschiedliche Regeln die gelten?
+* Gibt es je nach Daten unterschiedliche Regeln, die gelten?
 * Wer kümmert sich um die Einführung und Einhaltung der Regeln?
