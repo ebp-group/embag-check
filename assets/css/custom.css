@@ -66,8 +66,13 @@ a {
 }
 
 .details img {
-    margin: 0 2px;
+    margin-right: 2px;
 }
+
+.details p {
+    margin-bottom: 0;
+}
+
 
 dt {
     font-weight: bold;
