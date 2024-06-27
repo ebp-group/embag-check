@@ -13,4 +13,5 @@ Sowohl in der Softwareentwicklung wie auch bei der Datenverarbeitung haben sich 
 * Wer ist für die Automatisierung zuständig?
 * Ist es sinnvoll gewisse Automatisierungen zentral bereitzustellen?
 * Haben alle meine Systeme eine Schnittstelle, die für die Automatisierung nötig ist?
+* Wer kann uns bei der Automatisierung unterstützen (z.B. Swisstopo, BFS oder externe Dienstleister)?
 

@@ -4,7 +4,7 @@ badges:
 - "Freiwillig: Best Practice"
 ---
 
-Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprechperson zu finden. Je nach Modell werden verschiedene Rollen unterschieden, die Open Government Data Strategie des Bundes nennt folgende Rollen: Data Stewards, Data Custodian, Dateneigner
+Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprechperson zu finden. Je nach Modell werden verschiedene Rollen unterschieden, die Open Government Data Strategie des Bundes nennt folgende Rollen: Data Stewards, Data Custodian, Dateneigner (siehe Rollenmodell in den [Erläuterungen zur EMBAV Art. 4, S. 12](https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf))
 
 **Folgefragen:**
 
