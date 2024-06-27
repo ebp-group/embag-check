@@ -11,5 +11,5 @@ Für REST-APIs hat sich OpenAPI als Standard etabliert, welches dann von geeigne
 
 **Folgefragen**
 
-* Gibt es eine zentrale Stelle, an der die Dokumentation zugänglich gemacht wird (z.B. Developer Portal)?
+* Gibt es eine zentrale Stelle, an der die Dokumentation zugänglich gemacht wird (z.B. Developer Portal, I14Y)?
 * Ist die Dokumentation up-to-date bzw. wer ist dafür verantwortlich?

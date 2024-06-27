@@ -12,5 +12,5 @@ _[EMBAG Art. 14](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_14)_ schrei
 
 * Was ist ein Datensatz?
 * Welche Metadaten braucht ein Datensatz?
-* Liefert meine Organisation bereits Daten an andere Stellen (andere Bundesämter, Kantone, I14Y-Plattform, opendata.swiss)?
+* Liefert meine Organisation bereits Daten oder Metadaten an andere Stellen (andere Bundesämter, Kantone, I14Y-Plattform, opendata.swiss)?
 

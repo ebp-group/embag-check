@@ -22,3 +22,4 @@ Diese Grundsätze sind auch im im _[EMBAG Art. 10 Abs. 4](https://www.fedlex.adm
 **Folgefragen**
 
 * Kennen wir die Bedürfnisse unserer Datennutzenden (z.B. bezüglich Maschinenlesbarkeit, offene Standards, Lizenzierung, Aktualisierung der Daten)?
+* Wie können wir in Austausch mit unseren (potentiellen) Datennutzenden kommen und wie bleiben wir es? Insbesondere angesichts der Tatsache, dass sie sich beim Bezug von OGD nicht registrieren/authentisieren müssen und wir sie deshalb nicht einfach identifizieren können.
