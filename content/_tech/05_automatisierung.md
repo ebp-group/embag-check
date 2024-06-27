@@ -4,7 +4,7 @@ badges:
 - "Freiwillig: Best Practice"
 ---
 
-Gerade im Zusammenhang mit Daten und Prozessen lassen sich viele Arbeitsschritte durch Automatisierung vereinfacher. Dies fördert die Standardisierung von Prozessen und vereinfacht die Übergabe an bzw. die Einarbeitung von neuen Mitarbeitern.
+Gerade im Zusammenhang mit Daten und Prozessen lassen sich viele Arbeitsschritte durch Automatisierung vereinfachen. Dies fördert die Standardisierung von Prozessen und vereinfacht die Übergabe an bzw. die Einarbeitung von neuen Mitarbeitern.
 
 Sowohl in der Softwareentwicklung wie auch bei der Datenverarbeitung haben sich entsprechende Praktiken (DevOps, Continuous Integration, Data Engineering, Daten-Pipelines) etabliert.
 

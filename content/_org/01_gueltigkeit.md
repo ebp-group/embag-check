@@ -8,4 +8,4 @@ Falls die Organisation zur **zentralen Bundesverwaltung** zählt, ist sie auf je
 
 **Folgefragen:**
 
-* Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Katon/Gemeinde gelten könnten?
+* Falls die Organisation (noch) nicht vom EMBAG erfasst ist: könnte es sein, dass in naher Zukunft gleiche oder ähnliche Vorgaben auch für meine Organisation/Kanton/Gemeinde gelten könnten?

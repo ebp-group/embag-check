@@ -15,5 +15,5 @@ Es gibt aber Ausnahmen von dieser Regeln:
 **Folgefragen**
 
 * Ist es denkbar, dass diese Software auch noch von anderen Organisationen eingesetzt wird (anderes Amt, Kanton, Gemeinde, Private)?
-* Sind sich meine Dienstleister über diese neuen Bestimmungen bewusst?
+* Sind sich meine Dienstleister dieser neuen Bestimmungen bewusst?
 * Stehen Beschaffungsvorhaben an, die Software betreffen?
