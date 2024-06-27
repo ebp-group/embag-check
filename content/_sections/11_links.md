@@ -7,6 +7,7 @@ title:  Weiterführende Links
 * Open Source Software
     * [Bundeskanzlei: Open Source Software (OSS)](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html)
     * [Informationen zum Einsatz von Open Source im Zusammenhang mit dem EMBAG von Prof. Dr. Simon Schlauri](https://www.bfh.ch/dam/jcr:4a363a57-b139-476f-9f27-83d32dc9eb0c/Pr%C3%A4sentation%20-%20Simon%20Schlauri.pdf)
+    * [Open Source Studie Schweiz 2024](https://www.oss-studie.ch/)
 * API/Schnittstellen
     * [Bundeskanzlei: API Architektur Bund](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund.html)
 * Open Government Data
