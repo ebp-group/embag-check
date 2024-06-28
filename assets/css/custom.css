@@ -25,7 +25,15 @@ h1{
 }
 
 h2{
-    font-weight: 300;
+    font-weight: 500;
+}
+
+dd {
+    margin-inline-start: 0px;
+}
+
+ul {
+    padding-inline-start: 20px;
 }
 
 a {
