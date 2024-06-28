@@ -8,10 +8,10 @@ Das EMBAG macht klar: «[Die Behörden] erlauben jeder Person, die Software zu n
 
 Bekannte OSS-Lizenzen:
 
-* Open Source-Lizenzen mit starkem «Copyleft» (diese wirken «viral» bzw. «contagious», Ziel ist: Software soll frei verfügbar bleiben)
-    * **GPL** (GNU General Public License): aktuell nur in Englisch vorhanden
-    * **AGPL** (GNU Affero General Public License): ideal für Webanwendungen
-    * **EUPL** (European Union Public License)
+* Open Source-Lizenzen mit starkem «Copyleft»** (diese wirken «viral» bzw. «contagious», Ziel ist: Software soll frei verfügbar bleiben)
+    * GPL (GNU General Public License): aktuell nur in Englisch vorhanden
+    * AGPL (GNU Affero General Public License): ideal für Webanwendungen
+    * EUPL (European Union Public License)
 * Permissive Open Source-Lizenzen ohne «Copyleft» (freizügig):
     * MIT (Massachusetts Institute of Technology License): nur Haftungsausschluss
     * BSD (Berkley Software Distribution License): Haftungsauschluss und «Werbeverbot», dadurch ist kein ungewolltes Endorsement von Software möglich
