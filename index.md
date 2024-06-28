@@ -4,4 +4,4 @@ layout: default
 home: true
 ---
 
-Das neue EMBAG-Gesetz, das am 1. Januar 2024 in Kraft getreten ist, bringt zahlreiche Neuerungen mit sich, auf die sich die Bundesverwaltung einstellen muss. Der EMBAG-Check soll dabei helfen, Bereiche zu identifizieren, die bisher noch nicht adressiert wurden. Wir beraten Sie gerne bei der konkreten Umsetzung der vorgeschlagenen Massnahmen.
+Das Bundesgesetz über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben (EMBAG) ist seit 1. Januar 2024 in Kraft. Das EMBAG bringt zahlreiche Neuerungen mit sich, auf die sich die Bundesverwaltung einstellen muss. Der EMBAG-Check hilft Ihnen, Bereiche zu identifizieren, in denen Massnahmen getroffen werden müssen. Wir beraten Sie gerne bei der konkreten Umsetzung der vorgeschlagenen Massnahmen.
