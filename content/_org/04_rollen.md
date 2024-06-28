@@ -1,16 +1,16 @@
 ---
-claim: "Die organisatorischen Zuständigkeiten/Rollen sind definiert."
+claim: "Die organisatorischen Zuständigkeiten bzw. Rollen sind definiert."
 badges:
 - "Freiwillig: Best Practice"
 ---
 
-Klare und definierte Zuständigkeiten helfen den Nutzenden die richtige Ansprechperson zu finden. Je nach Modell werden verschiedene Rollen unterschieden, die Open Government Data Strategie des Bundes nennt folgende Rollen: Data Stewards, Data Custodian, Dateneigner (siehe Rollenmodell in den [Erläuterungen zur EMBAV Art. 4, S. 12](https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf))
+Klar definierte Zuständigkeiten helfen Daten-Nutzenden, die richtige Ansprechperson zu finden. Je nach Modell werden im Daten-Bereich verschiedene Rollen unterschieden. Die Open Government Data-Strategie des Bundes beispielsweise nennt folgende Rollen: Data Stewards, Data Custodians, Dateneigner (siehe Rollenmodell in den [Erläuterungen zur EMBAV Art. 4, S. 12](https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf)).
 
 **Folgefragen:**
 
-* Wer ist für die Metadaten zuständig?
+* Wer ist für die Erfassung und Pflege der Daten zuständig? Wer bereitet den Datensatz auf?
+* Wer ist für die Erfassung und Pflege der Metadaten zuständig?
 * Wer kann fachliche Fragen zum Datensatz beantworten?
 * Wer unterstützt, wenn es Probleme beim Datenbezug gibt?
-* Wer bereitet den Datensatz auf?
-* Wer ist zuständig, dass der Datensatz regelmässig aktualisiert wird?
-* Sind die (Teil-)Prozesse bereits automatisiert?
+* Wer ist zuständig, dass der als OGD publizierte Datensatz regelmässig aktualisiert wird?
+* Sind unsere Prozesse bereits ausreichend automatisiert?

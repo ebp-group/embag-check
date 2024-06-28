@@ -4,9 +4,11 @@ badges:
 - "Freiwillig: Best Practice"
 ---
 
-Eine solche Strategie umfasst üblicherweise die Bereiche Erhebung/Beschaffung, Datenbewirtschaftung, Publikation und Datennutzung. Sie kann auch weitere Themen wie ein Rollenkonzept oder die Data Governance umfassen.
+Eine solche Strategie umfasst üblicherweise die Bereiche Datenerhebung bzw. -beschaffung, Datenbewirtschaftung, Datenpublikation und Datennutzung. Sie kann auch weitere Themen wie ein Rollenkonzept oder eine Data Governance umfassen.
 
 **Folgefragen:**
 
-* Gibt es bereits Konzepte oder Strategien, die Teilbereiche abdecken (z.B. OGD-Strategie, Digitalisierungsstrategie, Geschäftsstrategie)?
-* Wer sind die wichtigsten Stakeholder beim Thema Daten in der Organisation?
+* Gibt es in unserer Organisation bereits Konzepte oder Strategien, die Teilbereiche abdecken – zum Beispiel eine OGD-Strategie, eine Digitalstrategie, eine Amts- oder Geschäftsstrategie?
+* Wer sind in unserer Organisation beim Thema Daten die wichtigsten Stakeholder?
+* Wie wollen wir den Einbezug der Stakeholder für die Formulierung einer Datenstrategie gestalten?
+* Was sollen die zentralen Inhalte unserer Datenstrategie sein?
