@@ -4,11 +4,11 @@ badges:
 - "Freiwillig: Best Practice"
 ---
 
-Beim Thema Monitoring geht es darum im Fehlerfall schnell zur Ursache zu kommen und schnell zu sehen, wenn es Anomalien gibt (ungewöhnlich viele Daten, Login dauert zu lange etc.). Zum anderen kann auch eine Aussage zur Nutzung des System gemacht werden (Analytics) und so die Dimensionierung des ganzen Systems gesteuert werden.
+Zentrale Vorgaben des Monitorings sind, im Fehlerfall schnell die Ursache zu finden und schnell zu sehen, wenn es Anomalien gibt (zum Beispiel ungewöhnlich viele Daten, zu langsames Login, etc.). Ferner sollen Aussagen zur Nutzung von IT-Systemen (Analytics) gemacht werden können und so die Dimensionierung der Systeme gesteuert werden.
 
 **Folgefragen**
 
-* Was wird gemessen?
-* Wie oft wird gemessen?
-* Wer hat Zugriff auf die Messdaten? Wie?
+* Welche Grössen sollen in unserem IT-Monitoring erheben werden (was wird gemessen)?
+* Wie häufig wird gemessen?
+* Wer hat Zugriff auf die Messdaten? Wie und für welche Verwendungszwecke?
 
