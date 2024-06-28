@@ -9,7 +9,7 @@ body{
     font-family: "Gotham SSm A","Gotham SSm B","Helvetica Neue",Arial,Sans-Serif;
     font-size: 16px;
     font-weight: 300;
-    line-height: 1.5;
+    line-height: 1.7;
     color: #333;
     background:white;
 }
@@ -22,6 +22,10 @@ h1{
     margin-block-start: 2.1em;
     margin-block-end: 0.83em;
     font-family: "Gotham SSm A","Gotham SSm B","Helvetica Neue",Arial,Sans-Serif;
+}
+
+div.title.nav {
+    font-weight: 500;
 }
 
 h2{
