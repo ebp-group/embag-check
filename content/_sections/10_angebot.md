@@ -21,6 +21,6 @@ Neben dem *Beratungsgespräch* und *Workshop & Roadmap* oder zusätzlich dazu un
 
 Preis: **nach Aufwand**
 
-<hr>
+## Kontakt
 
-**Bitte kontaktieren Sie uns unter <a href="mailto:embag@ebp.ch">embag@ebp.ch</a> oder unter den unstehenden Telefonnummern.**
+**Kontaktieren Sie uns unter <a href="mailto:embag@ebp.ch">embag@ebp.ch</a> oder unter den unstehenden Telefonnummern.**
