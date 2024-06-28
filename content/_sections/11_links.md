@@ -2,13 +2,18 @@
 title:  Weiterführende Links
 ---
 
-* EMBAG allgemein
-    * [Digitale Verwaltung Schweiz: Ein Enabling-Gesetz der Digitalisierung](https://www.digitale-verwaltung-schweiz.ch/blog/16-embag-ein-enabling-gesetz-der-digitalisierung)
-* Open Source Software
-    * [Bundeskanzlei: Open Source Software (OSS)](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html)
-    * [Informationen zum Einsatz von Open Source im Zusammenhang mit dem EMBAG von Prof. Dr. Simon Schlauri](https://www.bfh.ch/dam/jcr:4a363a57-b139-476f-9f27-83d32dc9eb0c/Pr%C3%A4sentation%20-%20Simon%20Schlauri.pdf)
-    * [Open Source Studie Schweiz 2024](https://www.oss-studie.ch/)
-* API/Schnittstellen
-    * [Bundeskanzlei: API Architektur Bund](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund.html)
-* Open Government Data
-    * [Bundesamt für Statistik (Geschäftsstelle OGD): Masterplan Open Government Data 2024-2027](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/masterplan.html)
+## EMBAG allgemein
+* [EMBAG](https://www.fedlex.admin.ch/eli/fga/2023/787/de) und [Botschaft zum EMBAG](https://www.fedlex.admin.ch/eli/fga/2022/804/de)
+* [EMBAV](https://www.fedlex.admin.ch/eli/cc/2023/754/de) und [Erläuterungen der EMBAV](https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf) 
+* Digitale Verwaltung Schweiz: [Ein Enabling-Gesetz der Digitalisierung](https://www.digitale-verwaltung-schweiz.ch/blog/16-embag-ein-enabling-gesetz-der-digitalisierung)
+
+## Open Source Software
+* Bundeskanzlei: [Open Source Software (OSS)](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html)
+* Ronzani Schlauri Anwälte: [Informationen zum Einsatz von Open Source im Zusammenhang mit dem EMBAG](https://www.bfh.ch/dam/jcr:4a363a57-b139-476f-9f27-83d32dc9eb0c/Pr%C3%A4sentation%20-%20Simon%20Schlauri.pdf)
+* Berner Fachhochschule: [Open Source Studie Schweiz 2024](https://www.oss-studie.ch/)
+
+## API/Schnittstellen
+* Bundeskanzlei: [API Architektur Bund](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund.html)
+
+## Open Government Data
+* Bundesamt für Statistik, Geschäftsstelle OGD: [Masterplan Open Government Data 2024-2027](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/masterplan.html)
