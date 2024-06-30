@@ -1,5 +1,6 @@
 ---
 title:  Weiterführende Links
+extra-class: white
 ---
 
 ## EMBAG allgemein
