@@ -1,4 +1,4 @@
-/*
+e*
 ---------------
 General 
 ---------------
@@ -117,6 +117,13 @@ dt {
 }
 
 @media only screen and (min-width: 600px){
+    .blue {
+        background-color: #7aa2c0 !important;
+        color: white !important;
+    }
+    .white {
+        background-color: #ffffff !important;
+    }
     .grey {
         background-color: #f8f7f7 !important;
     }
