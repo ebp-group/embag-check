@@ -4,7 +4,7 @@ badges:
 - "Freiwillig: Best Practice"
 ---
 
-Sogenannte «Communities of Practice» (CoP) sind ein effektiver Weg um Personen mit ähnlichen Aufgaben und/oder Themen über Abteilungsgrenzen hinweg miteinander zu vernetzen. Gerade im Daten-Bereich gibt es oft ähnliche Fragestellungen (zum Beispiel automatisierte Daten-Pipelines, Anonymisierung, Metadaten, gemeinsame Infrastruktur, Datenaufbereitung, Datenanalysen, Visualisierungen, Dashboards), die sich optimal in einer CoP besprechen lassen.
+Sogenannte [«Communities of Practice» (CoP)](http://www.infed.org/biblio/communities_of_practice.htm) sind ein effektiver Weg um Personen mit ähnlichen Aufgaben und/oder Themen über Abteilungsgrenzen hinweg miteinander zu vernetzen. Gerade im Daten-Bereich gibt es oft ähnliche Fragestellungen (zum Beispiel automatisierte Daten-Pipelines, Anonymisierung, Metadaten, gemeinsame Infrastruktur, Datenaufbereitung, Datenanalysen, Visualisierungen, Dashboards), die sich optimal in einer CoP besprechen lassen.
 
 CoP können auch organisationsübergreifend eingerichtet werden. Ein gutes Beispiel dafür ist die [«Community für offene Behördendaten»](https://www.zh.ch/de/direktion-der-justiz-und-des-innern/statistisches-amt/open-government-data/community-open-government-data.html) der Mitarbeitenden der Verwaltungseinheiten und Organe des Kantons Zürich.
 
