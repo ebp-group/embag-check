@@ -349,9 +349,11 @@ HEADER
 @media only screen and (max-width: 600px){
     .common .title{
         margin-left: 20px;
+	margin-right: 20px;
     }
     .common .content{
         margin-left: 20px;
+	margin-right: 20px;
     }
 }
 
