@@ -1451,6 +1451,11 @@ Impressum
 }
 
 
+#kontakt {
+  background-color: #7aa2c0;
+  color: white;
+}
+
 @media only screen and (max-width: 600px){
     .kontakt-container{
         justify-content: flex-start;

@@ -94,48 +94,6 @@
           </div>
         {% endfor %}
 
-        <div class="container common kontakt" id="kontakt_default">
-          <div class="title nav" onClick="openNav(event)">
-            <div class="text">
-              Kontakt
-            </div>
-            <div class="image">
-              <div class="open">
-                  <img alt="" src="{{ '/assets/images/chevron_rot.svg'  | relative_url }}" />
-              </div>
-              <div class="close">
-                  <img alt="" src="{{ '/assets/images/minus_grau.svg'  | relative_url }}" />
-              </div>
-            </div>
-          </div>
-          <div class="content">
-            <div class="text">
-              <p>Bitte kontaktieren sie uns für Fragen, Rückmeldungen oder andere Anliegen unter <a href="mailto:embag@ebp.ch">embag@ebp.ch</a> oder unter +41 44 395 11 11.</p>
-          </div>
-  
-          <div class="kontakt-container">
-            {% for contact in site.contacts %}
-              <div class="kontakt-item">
-                <div class="picture">
-                    <img src="{{ '/assets/images/contact/' | append: contact.short | append: '.png'  | relative_url }}">
-                </div>
-                <div class="item">
-                    <div class="name">
-                    {{ contact.name }}
-                    </div>
-                    <div class="phone">
-                      {{ contact.phone }}
-                    </div>
-                    <div class="email">
-                      {{ contact.email }}
-                    </div>
-                </div>
-              </div>
-              {% endfor %}          
-          </div>
-        </div>
-
-      
       <div class="footer container">
         <div class="logo">
          <img alt="" src="{{ '/assets/images/logo.svg'  | relative_url }}" />
