@@ -50,7 +50,6 @@ a {
 #body  {
     max-width: 1440px;
     margin: auto;
-    padding: 0 20px;
 }
 
 .container{
@@ -335,6 +334,14 @@ HEADER
 	padding-bottom: 120px;
 }
 
+@media only screen and (max-width: 600px){
+    .common .title{
+        margin-left:: 20px;
+    }
+    .common .content{
+        margin-left: 20px;
+    }
+}
 
 /* 600px or larger */
 @media only screen and (min-width: 600px){
