@@ -20,5 +20,3 @@ Preis: **CHF 3'500**
 Neben dem *Beratungsgespräch* und *Workshop & Roadmap* oder zusätzlich dazu unterstützen wir Sie bei Bedarf gerne mit **individuellen Beratungsleistungen** und mit **Unterstützung in der technischen Umsetzung** zum Beispiel bezüglich Definition einer Data Governance, bezüglich OGD oder im Data Engineering. 
 
 Preis: **nach Aufwand**
-
-{% include contact.html %}

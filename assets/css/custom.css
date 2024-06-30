@@ -310,6 +310,11 @@ HEADER
     background-color: white;
 }
 
+.container.common.blue{
+  background-color: #7aa2c0;
+  color: white;
+}
+
 .common .content{
     font-family: "Gotham SSm A","Gotham SSm B","Helvetica Neue",Arial,Sans-Serif;
 }
@@ -1448,12 +1453,6 @@ Impressum
     margin-left: 10px;
     width: 250px;
     font-family: "Gotham Narrow SSm A","Gotham Narrow SSm B","Helvetica Neue",Arial,Sans-Serif;
-}
-
-
-#kontakt {
-  background-color: #7aa2c0;
-  color: white;
 }
 
 @media only screen and (max-width: 600px){
