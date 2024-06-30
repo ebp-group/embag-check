@@ -4,7 +4,7 @@ function openNav(e) {
         let content = nav.nextElementSibling;
         if (content.style.display === '' || content.style.display === 'none') {
             content.style.display = 'block';
-            nav.style.color = "#746965";
+            nav.style.color = ""; //"#746965";
             nav.getElementsByClassName("open")[0].style.display = "none";
             nav.getElementsByClassName("close")[0].style.display = "block";
             let tool = nav.closest('.tool');

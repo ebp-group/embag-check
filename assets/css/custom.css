@@ -30,6 +30,7 @@ div.title.nav {
 
 h2{
     font-weight: 500;
+    font-size: 22px;
 }
 
 dd {
@@ -303,6 +304,10 @@ HEADER
 
 .container.common{
     max-width: 1440px;
+}
+
+.container.common.grey{
+    background-color: #f8f7f7;
 }
 
 .container.common.white{
