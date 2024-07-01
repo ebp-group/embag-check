@@ -280,6 +280,7 @@ HEADER
 .intro .credit {
     font-size: 12px;
     margin-top: -30px;
+    margin-bottom: 0;
     text-align: right;
 }
 
