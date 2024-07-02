@@ -6,6 +6,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
+    - name: Install dependencies
+      run: |
+        sudo apt-get install aspell-de
     - uses: rojopolis/spellcheck-github-actions@v0
       name: Spellcheck
       with:
