@@ -1,5 +1,6 @@
 Abs
 Abstimmungsdaten
+Anwendungsfälle
 App
 Badi
 Caching
@@ -27,6 +28,7 @@ date
 eCH
 email
 name
+ods
 phone
 rsm
 short
