@@ -10,7 +10,7 @@ _[EMBAG Art. 14](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_14)_ schrei
 
 **Folgefragen:**
 
-* Wie definiert unsere Oganisation einen Datensatz?
+* Wie definiert unsere Organisation einen Datensatz?
 * Welche Metadaten braucht ein spezifischer Datensatz?
 * Liefert unsere Organisation bereits Daten und Metadaten an andere Stellen?
 
