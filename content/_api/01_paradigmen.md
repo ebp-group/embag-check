@@ -12,6 +12,6 @@ _[EMBAG Art. 13](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_13)_ verlan
 **Folgefragen**
 
 * Werden gleiche oder ähnliche Daten wie die Daten unserer Organisation bereits von anderen Stellen publiziert?
-* Gibt es *de iure* (offizielle) oder *de facto* (inoffizielle) Standards, die verwendet werden sollten (zum Beispiel eCH, W3C, OGC)?
+* Gibt es *de jure* (offizielle) oder *de facto* (inoffizielle) Standards, die verwendet werden sollten (zum Beispiel eCH, W3C, OGC)?
 * Gibt es in unserer Organisation ein API-Management (für API Keys, Caching, Throttling)?
 
