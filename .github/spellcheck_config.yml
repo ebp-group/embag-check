@@ -1,7 +1,7 @@
 matrix:
 - name: Markdown
   aspell:
-    lang: de_CH
+    lang: de_CH-only
   dictionary:
     wordlists:
     - .github/wordlist.txt
