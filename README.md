@@ -1,3 +1,5 @@
+[![Spellcheck Text](https://github.com/ebp-group/embag-check/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/ebp-group/embag-check/actions/workflows/spellcheck.yml)
+
 # EMBAG Checkliste
 Ist deine Organisation EMBAG-ready?
 
