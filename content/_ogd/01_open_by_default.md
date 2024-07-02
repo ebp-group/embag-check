@@ -1,5 +1,5 @@
 ---
-claim: "Es gibt einen etablierten Prozess, der prüft, ob Daten veröffentlich werden müssen («Open by Default»-Ansatz)."
+claim: "Es gibt einen etablierten Prozess, der prüft, ob Daten veröffentlicht werden müssen («Open by Default»-Ansatz)."
 badges:
 - "Pflicht: EMBAG Art. 10"
 ---

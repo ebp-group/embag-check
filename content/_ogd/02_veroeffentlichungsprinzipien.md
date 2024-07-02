@@ -4,7 +4,7 @@ badges:
 - "Pflicht: EMBAG Art. 10"
 ---
 
-Die [zehn Open-Data-Prinzipien](https://sunlightfoundation.com/policy/documents/ten-open-data-principles) der Sunlight Foundation haben bis heute Gültigkeit. Sie beschreiben, wie Daten veröffentlich werden sollen:
+Die [zehn Open-Data-Prinzipien](https://sunlightfoundation.com/policy/documents/ten-open-data-principles) der Sunlight Foundation haben bis heute Gültigkeit. Sie beschreiben, wie Daten veröffentlicht werden sollen:
 
 0. **Vollständigkeit** (Completeness): *alle* Daten *und* die zugehörigen Metadaten
 0. **Primärquellen** (Primacy): Primärdaten der Verwaltung mit Angaben zu Quelle und Erhebungsmethode (vgl. auch Sekundärnutzung)
