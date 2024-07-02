@@ -12,7 +12,7 @@ Wir führen während circa einer Stunde ein Gespräch zur EMBAG-Readiness Ihrer 
 Preis: **kostenlos**
 
 ## Workshop & Roadmap
-Wir absolvieren mit Ihnen in einem halbtägigen Workshop vertieft den EMBAG-Check und erarbeiten auf Ihre Organisation und aktuelle Situation abgestimmte konkrete Verbesserungsmassnahmen. Wir erstellen eine **Dokumentation der wichtigsten Erkenntnisse und der Empfehlungen für Verbesserungsmassnahmen** zuhanden von Enthscheidungsträgerinnen und Entscheidungsträgern. 
+Wir absolvieren mit Ihnen in einem halbtägigen Workshop vertieft den EMBAG-Check und erarbeiten auf Ihre Organisation und aktuelle Situation abgestimmte konkrete Verbesserungsmassnahmen. Wir erstellen eine **Dokumentation der wichtigsten Erkenntnisse und der Empfehlungen für Verbesserungsmassnahmen** zuhanden von Entscheidungsträgerinnen und Entscheidungsträgern. 
 
 Preis: **CHF 3'500**
 
