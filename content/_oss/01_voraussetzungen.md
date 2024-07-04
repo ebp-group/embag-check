@@ -8,7 +8,7 @@ Im Grundsatz muss jede Software, die von Organisationen entwickelt wird, die dem
 
 Es gibt aber Ausnahmen von dieser Regel:
 
-0. Die Software wird unverändert beschafft (Werkvertrag, als Lizenz oder als Software-as-a-Service): In diesem Fall ist der OSS-Grundsatz freiwillig. Er kann jedoch in der Beschaffung gefordert werden.
+0. Die Software wird unverändert beschafft (z.B. als Lizenz oder als Software-as-a-Service): In diesem Fall ist der OSS-Grundsatz freiwillig. Er kann jedoch in der Beschaffung gefordert werden.
 0. Die Rechte Dritter würden verletzt, zum Beispiel wenn eine bestehende Software weiterentwickelt wird
 0. Sicherheitsrelevante Gründe
 
