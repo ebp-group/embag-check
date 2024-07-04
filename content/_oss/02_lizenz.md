@@ -9,7 +9,7 @@ Das EMBAG macht klar: «[Die Behörden] erlauben jeder Person, die Software zu n
 **Bekannte OSS-Lizenzen:**
 
 * Open Source-Lizenzen mit «Copyleft» (diese verlangen, dass alle Änderungen der Software frei verfügbar bleiben)
-    * [GPL (GNU General Public License)](https://choosealicense.com/licenses/gpl-3.0/): die am weitestens verbreitete Copyleft-Lizenz, aktuell nur in Englisch vorhanden
+    * [GPL (GNU General Public License)](https://choosealicense.com/licenses/gpl-3.0/): die am weitesten verbreitete Copyleft-Lizenz, aktuell nur in Englisch vorhanden
     * [AGPL (GNU Affero General Public License)](https://choosealicense.com/licenses/agpl-3.0/): ideal für Webanwendungen
     * [EUPL (European Union Public License)](https://choosealicense.com/licenses/eupl-1.1/): verfügbar in 22 Sprachen
 
