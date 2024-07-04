@@ -44,6 +44,15 @@ ul {
 a {
 	color: #af2832;
 }
+
+#Kontakt a {
+    color: #FFFFFF;
+}
+
+div.kontakt-container {
+    padding-bottom: 0px;
+}
+
 #content-wrapper{
     background-color: white;
 }
