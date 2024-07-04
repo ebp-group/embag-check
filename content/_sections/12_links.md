@@ -18,3 +18,13 @@ extra-class: white
 
 ## Open Government Data
 * Bundesamt für Statistik, Geschäftsstelle OGD: [Masterplan Open Government Data 2024-2027](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/masterplan.html)
+
+## EBP
+* [Über EBP](https://www.ebp.global/ch-de/uber-uns)
+* EMBAG-relevante Dienstleistungen:
+  * [IT-Consulting](https://www.ebp.global/ch-de/expertisen/ict-consulting)
+  * [Rechtsberatung und Submissionsverfahren](https://www.ebp.global/ch-de/expertisen/strategie-und-organisationsberatung/rechtsberatung-und-verfahren)
+  * [Data Science und Data Engineering](https://www.ebp.global/ch-de/expertisen/data-science)
+  * [BIM und Life Cycle Data Management](https://www.ebp.global/ch-de/expertisen/bim-life-cycle-data-management)
+  * [Organisations- und Prozessentwicklung](https://www.ebp.global/ch-de/expertisen/strategie-und-organisationsberatung/organisations-und-prozessentwicklung)
+* [Alle unsere Expertisen](https://www.ebp.global/ch-de/expertisen)
