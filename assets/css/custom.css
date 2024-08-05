@@ -1573,6 +1573,7 @@ Impressum
 .impressum {
     display: grid;
     grid-template-columns: repeat(3,1fr);
+    row-gap: 30px;
     padding: 20px
 }
 
@@ -1599,7 +1600,6 @@ Impressum
         float: left;
         font-family: "Gotham SSm A","Gotham SSm B","Helvetica Neue",Arial,Sans-Serif;
         font-size: 16px;
-        padding-top: 30px;
     }
 }
 
