@@ -1572,7 +1572,7 @@ Impressum
 
 .impressum {
     display: grid;
-    grid-template-columns: repeat(3,1fr)
+    grid-template-columns: repeat(3,1fr);
     padding: 20px
 }
 
@@ -1584,7 +1584,7 @@ Impressum
 
 @media only screen and (min-width: 600px){
     .footer{
-        height: 200px;
+        height: 220px;
     }
 
     .footer .logo{
@@ -1597,11 +1597,11 @@ Impressum
     }
 
     .copyright{
-        float: right;
+        float: left;
         font-family: "Gotham SSm A","Gotham SSm B","Helvetica Neue",Arial,Sans-Serif;
         font-size: 16px;
-        padding-top: 30px;
-        padding-right: 30px;
+        padding-top: 20px;
+        padding-left: 20px;
     }
 }
 
@@ -1619,6 +1619,10 @@ Impressum
     }
 
     .footer .logo{
+        display: none;
+    }
+
+    .footer .impressum {
         display: none;
     }
 }
