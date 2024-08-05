@@ -1576,7 +1576,7 @@ Impressum
     padding: 20px
 }
 
-.impressum a {
+.footer a {
     text-decoration: none;
     color: inherit;
     cursor: pointer;
@@ -1623,6 +1623,10 @@ Impressum
     }
 
     .footer .impressum {
+        display: none;
+    }
+
+    .footer .copyright {
         display: none;
     }
 }
