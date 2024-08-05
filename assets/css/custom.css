@@ -1570,6 +1570,21 @@ Impressum
     background-color:  #af2832;
 }
 
+.impressum {
+    display: grid;
+    grid-template-columns: repeat(3,1fr)
+}
+
+.impressum a {
+    text-decoration: none;
+    color: white;
+}
+
+.impressum a:hover {
+    text-decoration: none;
+    color: white;
+}
+
 @media only screen and (min-width: 600px){
     .footer{
         height: 100px;
