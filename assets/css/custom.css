@@ -1573,21 +1573,18 @@ Impressum
 .impressum {
     display: grid;
     grid-template-columns: repeat(3,1fr)
+    padding: 20px
 }
 
 .impressum a {
     text-decoration: none;
-    color: white;
-}
-
-.impressum a:hover {
-    text-decoration: none;
-    color: white;
+    color: inherit;
+    cursor: pointer;
 }
 
 @media only screen and (min-width: 600px){
     .footer{
-        height: 100px;
+        height: 200px;
     }
 
     .footer .logo{
