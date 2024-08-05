@@ -1588,8 +1588,7 @@ Impressum
     }
 
     .footer .logo{
-        padding-top: 10px;
-        padding-left: 10px;
+        padding: 0;
     }
 
     .footer .logo-text{
