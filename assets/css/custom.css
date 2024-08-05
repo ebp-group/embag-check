@@ -1584,7 +1584,7 @@ Impressum
 
 @media only screen and (min-width: 600px){
     .footer{
-        height: 270px;
+        height: 220px;
     }
 
     .footer .logo{
@@ -1599,8 +1599,7 @@ Impressum
         float: left;
         font-family: "Gotham SSm A","Gotham SSm B","Helvetica Neue",Arial,Sans-Serif;
         font-size: 16px;
-        padding-top: 20px;
-        padding-left: 20px;
+        padding-top: 30px;
     }
 }
 
