@@ -1,6 +1,6 @@
 ---
 title: EMBAG-Check
-layout: default
+layout: next
 home: true
 ---
 
