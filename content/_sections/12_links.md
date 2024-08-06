@@ -15,6 +15,7 @@ extra-class: white
 
 ## API/Schnittstellen
 * Bundeskanzlei: [API Architektur Bund](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/api-architektur-bund.html)
+* Bundeskanzlei: [API Guidelines für REST APIs](https://github.com/swiss/api-guidelines)
 
 ## Open Government Data
 * Bundesamt für Statistik, Geschäftsstelle OGD: [Masterplan Open Government Data 2024-2027](https://www.bfs.admin.ch/bfs/de/home/dienstleistungen/ogd/masterplan.html)
