@@ -119,6 +119,7 @@ Good
 Goods
 Governance
 Government
+Guidelines
 Haftungsauschluss
 Haftungsausschluss
 Handlungsbedarf
@@ -197,6 +198,7 @@ ready
 Rechtsberatung
 Repository
 Requests
+RESTful
 Rollenkonzept
 Rollenmodell
 Ronzani
