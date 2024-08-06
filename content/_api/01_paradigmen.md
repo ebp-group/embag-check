@@ -9,6 +9,8 @@ Der Begriff «API» (Schnittstelle) kann hier sehr breit aufgefasst werden: vom 
 
 _[EMBAG Art. 13](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_13)_ verlangt, dass der Datenaustausch zwischen Bund, Kantonen, Gemeinden und Privaten über «elektronische Schnittstellen» abgewickelt werden kann.
 
+Die [API Guidelines der Bundeskanzlei](https://github.com/swiss/api-guidelines) geben wertvolle Hinweise, wie RESTful APIs publiziert werden sollen.
+
 **Folgefragen**
 
 * Werden gleiche oder ähnliche Daten wie die Daten unserer Organisation bereits von anderen Stellen publiziert?
