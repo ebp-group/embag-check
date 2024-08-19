@@ -7,7 +7,7 @@ title:  Unterstützung durch EBP
 Unser Angebot an Sie:
 
 ## Kostenloses Beratungsgespräch
-Wir führen während circa einer Stunde ein Gespräch zur EMBAG-Readiness Ihrer Organisation. Dabei besprechen wir Ihre vorgängig gemachte Einschätzung bezüglich der obenstehenden Punkte des EMBAG-Checks und identifizieren den **Handlungsbedarf, damit Ihre Organisation EMBAG-ready wird**.
+Wir führen während circa einer Stunde ein Gespräch zur EMBAG-Readiness Ihrer Organisation (gleich [hier buchen](https://outlook.office365.com/owa/calendar/EMBAGCheck@ebpgroup.onmicrosoft.com/bookings/)!). Dabei besprechen wir Ihre vorgängig gemachte Einschätzung bezüglich der nachstehenden Punkte des EMBAG-Checks und identifizieren den **Handlungsbedarf, damit Ihre Organisation EMBAG-ready wird**.
 
 Preis: **kostenlos**
 
