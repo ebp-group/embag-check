@@ -1585,7 +1585,7 @@ Impressum
 
 @media only screen and (min-width: 600px){
     .footer{
-        height: 220px;
+        height: 240px;
     }
 
     .footer .logo{
@@ -1605,7 +1605,7 @@ Impressum
 
 @media only screen and (max-width: 600px){
     .footer{
-        height: 50px;
+        height: 60px;
     }
 
     .footer .logo-text{
