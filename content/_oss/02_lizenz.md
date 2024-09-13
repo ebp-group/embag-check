@@ -17,7 +17,20 @@ Das EMBAG macht klar: «[Die Behörden] erlauben jeder Person, die Software zu n
     * [MIT (Massachusetts Institute of Technology License)](https://choosealicense.com/licenses/mit/): nur Haftungsausschluss
     * [BSD (Berkley Software Distribution License)](https://choosealicense.com/licenses/bsd-3-clause/): Haftungsauschluss und «Werbeverbot», dadurch ist kein ungewolltes Endorsement von Software möglich
 
- Die Webseite [ChooseALicense.com](https://choosealicense.com/) von GitHub kann bei der Auswahl der passenden Lizenz helfen.
+Die Webseite [ChooseALicense.com](https://choosealicense.com/) von GitHub kann bei der Auswahl der passenden Lizenz helfen.
+
+**Use Cases**
+
+* Software basiert auf einer bestehenden, als Open Source unter Copyleft lizenzierten Lösung
+   * _Empfehlung: die bestehende Copyleft Lizenz verwenden_
+* Es soll eine Community rund um die Software entstehen, die am Code mitarbeitet
+   * _Empfehlung: Lizenz mit Copyleft verwenden (z.B. GPL, AGPL)_
+* Beim Code handelt es sich um eine Referenzimplementierung, die möglichst breit eingesetzt werden soll
+   * _Empfehlung: permissive Lizenz ohne Copyleft verwenden (z.B. MIT, BSD)_
+* Die Software soll einmal publiziert werden, und danach will man nichts mehr damit zu tun haben 
+   * _Empfehlung: permissive Lizenz ohne Copyleft verwenden (z.B. MIT, BSD)_
+
+Diese Use Cases basieren auf einen [Referat von Simon Schlauri](https://pretalx.com/it-beschaffungskonferenz-2024/talk/FXVUTW/).
 
 **Folgefragen**
 
