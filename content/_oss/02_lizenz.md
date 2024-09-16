@@ -30,7 +30,7 @@ Die Webseite [ChooseALicense.com](https://choosealicense.com/) von GitHub kann b
 * Die Software soll einmal publiziert werden, und danach will man nichts mehr damit zu tun haben 
    * _Empfehlung: permissive Lizenz ohne Copyleft verwenden (z.B. MIT, BSD)_
 
-Diese Use Cases basieren auf einen [Referat von Simon Schlauri](https://pretalx.com/it-beschaffungskonferenz-2024/talk/FXVUTW/).
+Diese Use Cases basieren auf einen [Referat von Simon Schlauri und Ronja Lichtsteiner](https://pretalx.com/it-beschaffungskonferenz-2024/talk/FXVUTW/).
 
 **Folgefragen**
 
