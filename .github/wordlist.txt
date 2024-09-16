@@ -33,6 +33,7 @@ Bundeskanzlei
 by
 bzw
 Caching
+Cases
 ch
 ChooseALicense
 claim
@@ -177,6 +178,7 @@ para
 Parquet
 Partnerorganisationen
 Permanence
+permissive
 Permissive
 phone
 point
@@ -196,6 +198,7 @@ Readability
 Readiness
 ready
 Rechtsberatung
+Referenzimplementierung
 Repository
 Requests
 RESTful
@@ -231,6 +234,7 @@ to
 unrealisierte
 up
 Usage
+Use
 Veröffentlichungskanäle
 Veröffentlichungsprinzipien
 versioniert
