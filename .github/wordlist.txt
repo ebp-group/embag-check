@@ -140,6 +140,7 @@ Kulturwandel
 Lee
 License
 Licensing
+Lichtsteiner
 Life
 Lizenzgebühren
 lizenzrechtliche
@@ -202,6 +203,7 @@ Referenzimplementierung
 Repository
 Requests
 RESTful
+Ronja
 Rollenkonzept
 Rollenmodell
 Ronzani
