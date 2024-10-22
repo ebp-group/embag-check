@@ -9,7 +9,7 @@ extra-class: white
 * Digitale Verwaltung Schweiz: [Ein Enabling-Gesetz der Digitalisierung](https://www.digitale-verwaltung-schweiz.ch/blog/16-embag-ein-enabling-gesetz-der-digitalisierung)
 
 ## Open Source Software
-* Bundeskanzlei: [Leitfäden zu Open Source Software (OSS)](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software.html)
+* Bundeskanzlei: [Hilfsmittel zu Open Source Software (OSS)](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software/hilfsmittel_oss.html)
 * Ronzani Schlauri Anwälte: [Informationen zum Einsatz von Open Source im Zusammenhang mit dem EMBAG](https://www.bfh.ch/dam/jcr:4a363a57-b139-476f-9f27-83d32dc9eb0c/Pr%C3%A4sentation%20-%20Simon%20Schlauri.pdf)
 * Berner Fachhochschule: [Open Source Studie Schweiz 2024](https://www.oss-studie.ch/)
 
