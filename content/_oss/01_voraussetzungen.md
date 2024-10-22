@@ -12,6 +12,9 @@ Es gibt aber Ausnahmen von dieser Regel:
 0. Die Rechte Dritter würden verletzt, zum Beispiel wenn eine bestehende Software weiterentwickelt wird
 0. Sicherheitsrelevante Gründe
 
+Im September 2024 hat die Bundeskanzlei [Hilfsmittel zu Open Source Software](https://www.bk.admin.ch/bk/de/home/digitale-transformation-ikt-lenkung/bundesarchitektur/open_source_software/hilfsmittel_oss.html) publiziert.
+Diese umfassen unter anderem einen «Strategischen Leitfaden» und einen «Praxis-Leitfaden».
+
 **Folgefragen**
 
 * Ist es denkbar, dass die Software auch noch von anderen Organisationen eingesetzt wird (anderes Amt, anderer Staat, Kantone, Gemeinden, Private)?
