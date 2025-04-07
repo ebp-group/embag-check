@@ -5,7 +5,8 @@ extra-class: white
 
 ## EMBAG allgemein
 * [EMBAG](https://www.fedlex.admin.ch/eli/fga/2023/787/de) und [Botschaft zum EMBAG](https://www.fedlex.admin.ch/eli/fga/2022/804/de)
-* [EMBAV](https://www.fedlex.admin.ch/eli/cc/2023/754/de) und [Erläuterungen der EMBAV](https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf) 
+* [EMBAV](https://www.fedlex.admin.ch/eli/cc/2023/754/de) und [Erläuterungen der EMBAV](https://www.newsd.admin.ch/newsd/message/attachments/84343.pdf)
+* [DigiV](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-104701.html)
 * Digitale Verwaltung Schweiz: [Ein Enabling-Gesetz der Digitalisierung](https://www.digitale-verwaltung-schweiz.ch/blog/16-embag-ein-enabling-gesetz-der-digitalisierung)
 
 ## Open Source Software
