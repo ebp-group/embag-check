@@ -6,8 +6,7 @@ badges:
 
 Falls die Organisation zur *zentralen Bundesverwaltung* zählt, ist sie auf jeden Fall vom EMBAG betroffen. Mit der [neuen Digitialisierungsverordnung (DigiV)](https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-104701.html) hat der Bundesrat am 2. April 2025 das EMBAG auch für die dezentrale Bundesverwaltung verbindlich erklärt (_gemäss [EMBAG Art. 2](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_2)_). Der Bundesrat kann für einzelne Verwaltungseinheiten Ausnahmen vom EMBAG gewähren.
 
-
-**Ausnahmen für dezentrale Verwaltungseinheiten** 
+**Generelle Ausnahmen für dezentrale Verwaltungseinheiten** 
 
 Gemäss den [Erläuterungen zur Digitalisierungsverordnung (DigiV)](https://www.newsd.admin.ch/newsd/message/attachments/92682.pdf) gelten folgende Ausnahmen:
 
