@@ -15,7 +15,7 @@ Gemäss den [Erläuterungen zur Digitalisierungsverordnung (DigiV)](https://www.
 IKT-Mittel zu nutzen.
 * Der Grundsatz _Public Money = Public Code_ greift dann nicht, wenn die Entwicklung von Software _nicht durch Bundesgelder_ finanziert wird. Dies ist etwa dann der Fall, wenn eine dezentrale Verwaltungseinheit Software im Auftrag und finanziert von Dritten entwickelt.
 * Auch Software die im Rahmen von Forschung entwickelt wird, muss nicht als Open Source zugänglich gemacht werden. Damit soll der Forschungsfreiheit Rechnung getragen. 
-* Mit den Standards (nach [EMBAG Art. 12](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_12)_) soll die Interoperabilität im Bereich von Behördenaufgaben gefördert werden. Für dezentrale Verwaltungseinheiten werden nur _wenige, grundlegende Standards_ für verbindlich erklärt
+* Mit den Standards (_nach [EMBAG Art. 12](https://www.fedlex.admin.ch/eli/fga/2023/787/de#art_12)_) soll die Interoperabilität im Bereich von Behördenaufgaben gefördert werden. Für dezentrale Verwaltungseinheiten werden nur _wenige, grundlegende Standards_ für verbindlich erklärt
 
 **Folgefragen:**
 
